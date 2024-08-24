@@ -1,0 +1,41 @@
+PolicyID,CoveredCondition
+CDP-CDCP-171336,Type 1 Diabetes
+CDP-CDCP-171336,Type 2 Diabetes
+CDP-CDCP-171336,Gestational Diabetes
+CDP-CDCP-171336,Diabetic Neuropathy
+CDP-CDCP-171336,Diabetic Retinopathy
+CDP-CHS-501036,Hypertension (High Blood Pressure)
+CDP-CHS-501036,Coronary Artery Disease
+CDP-CHS-501036,Congestive Heart Failure
+CDP-CHS-501036,Arrhythmias
+CDP-CHS-501036,Peripheral Artery Disease
+CDP-RWP-867534,Asthma
+CDP-RWP-867534,Chronic Obstructive Pulmonary Disease (COPD)
+CDP-RWP-867534,Cystic Fibrosis
+CDP-RWP-867534,Pulmonary Fibrosis
+CDP-RWP-867534,Sleep Apnea
+CDP-NC-355709,Multiple Sclerosis
+CDP-NC-355709,Parkinson's Disease
+CDP-NC-355709,Alzheimer's Disease
+CDP-NC-355709,Epilepsy
+CDP-NC-355709,Chronic Migraine
+CDP-ADS-864979,Rheumatoid Arthritis
+CDP-ADS-864979,Lupus (Systemic Lupus Erythematosus)
+CDP-ADS-864979,Crohn's Disease
+CDP-ADS-864979,Ulcerative Colitis
+CDP-ADS-864979,Psoriasis
+CDP-RCA-783875,Chronic Kidney Disease
+CDP-RCA-783875,Polycystic Kidney Disease
+CDP-RCA-783875,Glomerulonephritis
+CDP-RCA-783875,Diabetic Nephropathy
+CDP-RCA-783875,Hypertensive Nephropathy
+CDP-BJHP-038233,Osteoarthritis
+CDP-BJHP-038233,Osteoporosis
+CDP-BJHP-038233,Fibromyalgia
+CDP-BJHP-038233,Gout
+CDP-BJHP-038233,Ankylosing Spondylitis
+CDP-CCC-228385,"Various types of cancer (e.g., breast, lung, colorectal)"
+CDP-CCC-228385,Leukemia
+CDP-CCC-228385,Lymphoma
+CDP-CCC-228385,Multiple Myeloma
+CDP-CCC-228385,Long-term effects of cancer treatments

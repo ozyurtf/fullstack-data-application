@@ -1,0 +1,9 @@
+PolicyID,PolicyName,MaximumLifeTimeBenefit,RenewalTerms,Copayment,CoInsuranceRate,Deductible
+CDP-CDCP-171336,Comprehensive Diabetes Care Plan,10000000,Annual,40,15,2000
+CDP-CHS-501036,Cardiovascular Health Shield,2000000,5-year,50,15,3000
+CDP-RWP-867534,Respiratory Wellness Policy,3000000,Annual,30,10,5000
+CDP-NC-355709,Neuro-protective Coverage,5000000,Annual,20,10,500
+CDP-ADS-864979,Autoimmune Disorder Shield,3000000,Bi-annual,50,10,3000
+CDP-RCA-783875,Renal Care Assurance,2000000,Annual,25,10,500
+CDP-BJHP-038233,Bone & Joint Health Plan,3000000,5-year,20,20,5000
+CDP-CCC-228385,Comprehensive Cancer Care,2000000,Annual,20,30,2500

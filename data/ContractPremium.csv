@@ -1,0 +1,1001 @@
+PremiumCode,ContractNumber,CustomerSSN,PremiumAmount,PremiumFrequency,PaymentMethod,Status
+PREM1540,CNT-CDP-2327-965,556-44-4543,6999,Monthly,In-Person Payments,Overdue
+PREM6891,CNT-CDP-5443-289,887-07-8129,5205,Annually,Electronic Funds Transfer (EFT),Suspended
+PREM5692,CNT-CDP-0138-654,572-52-6215,6526,Querterly,Check,Active
+PREM1617,CNT-CDP-2225-044,296-57-4020,3821,Semi-Annually,Electronic Funds Transfer (EFT),Pending
+PREM1536,CNT-CDP-9461-087,410-82-3708,7709,Querterly,Electronic Funds Transfer (EFT),Pending
+PREM0105,CNT-CDP-7299-158,281-62-2599,6109,Annually,Online Payment Portals,Lapsed
+PREM1547,CNT-CDP-1871-181,111-48-5399,5823,Querterly,Direct Debit/Automatic Withdrawal,Active
+PREM9958,CNT-CDP-8322-326,386-35-2129,4678,Monthly,Phone Payments,Suspended
+PREM8198,CNT-CDP-4366-796,582-84-5518,1358,Semi-Annually,In-Person Payments,Overdue
+PREM4197,CNT-CDP-0364-861,745-84-4576,9222,Semi-Annually,Phone Payments,Active
+PREM0132,CNT-CDP-4771-397,728-88-9032,4876,Annually,Electronic Funds Transfer (EFT),Renewed
+PREM9126,CNT-CDP-9510-554,598-76-7465,217,Querterly,Direct Debit/Automatic Withdrawal,Pending
+PREM2289,CNT-CDP-9629-903,706-92-3972,6311,Querterly,Mobile Payment Apps,Renewed
+PREM7613,CNT-CDP-9208-549,309-54-2863,1369,Semi-Annually,In-Person Payments,Pending
+PREM4920,CNT-CDP-7818-755,160-40-0524,7976,Annually,In-Person Payments,Overdue
+PREM7034,CNT-CDP-0506-660,541-57-2145,2915,Annually,Online Payment Portals,Lapsed
+PREM6476,CNT-CDP-3226-308,422-22-6500,2964,Semi-Annually,Direct Debit/Automatic Withdrawal,Overdue
+PREM3352,CNT-CDP-3538-331,728-88-9032,7717,Semi-Annually,In-Person Payments,Active
+PREM8339,CNT-CDP-2133-221,572-52-6215,3643,Annually,Mobile Payment Apps,Lapsed
+PREM8103,CNT-CDP-3241-357,489-98-8589,2456,Monthly,Credit or Debit Card,Active
+PREM6031,CNT-CDP-8795-526,472-83-8236,7287,Annually,In-Person Payments,Cancelled
+PREM8319,CNT-CDP-5655-658,514-41-1595,4349,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM1120,CNT-CDP-7401-540,545-54-0867,5056,Semi-Annually,Credit or Debit Card,Renewed
+PREM2077,CNT-CDP-8141-632,648-53-3431,958,Querterly,Electronic Funds Transfer (EFT),Overdue
+PREM3755,CNT-CDP-5664-951,417-63-0056,2642,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM4631,CNT-CDP-4879-954,478-48-7443,289,Semi-Annually,Online Payment Portals,Expired
+PREM9746,CNT-CDP-2038-439,128-62-7754,7029,Semi-Annually,Credit or Debit Card,Renewed
+PREM4119,CNT-CDP-3283-313,361-44-1301,4617,Annually,In-Person Payments,Overdue
+PREM4104,CNT-CDP-5379-381,339-05-1707,2618,Monthly,Mobile Payment Apps,Pending
+PREM1731,CNT-CDP-1726-079,763-27-4967,6856,Querterly,Electronic Funds Transfer (EFT),Suspended
+PREM9019,CNT-CDP-8651-605,516-04-6814,2464,Querterly,Credit or Debit Card,Cancelled
+PREM0026,CNT-CDP-7588-295,352-32-0242,8597,Annually,Mobile Payment Apps,Suspended
+PREM2458,CNT-CDP-7526-443,550-33-5183,5522,Querterly,In-Person Payments,Renewed
+PREM8739,CNT-CDP-8294-341,391-99-3823,4541,Monthly,In-Person Payments,Renewed
+PREM1214,CNT-CDP-0069-374,253-85-8722,1990,Annually,Mobile Payment Apps,Expired
+PREM3623,CNT-CDP-5956-156,260-91-8767,2215,Querterly,Phone Payments,Active
+PREM4940,CNT-CDP-9941-051,569-03-0198,9419,Annually,Mobile Payment Apps,Suspended
+PREM5160,CNT-CDP-8882-532,675-38-5467,2786,Querterly,Credit or Debit Card,Suspended
+PREM2650,CNT-CDP-2249-118,391-99-3823,2112,Querterly,Electronic Funds Transfer (EFT),Expired
+PREM6907,CNT-CDP-7212-177,348-43-7882,3848,Annually,Online Payment Portals,Expired
+PREM3253,CNT-CDP-4226-906,660-89-2485,686,Semi-Annually,Mobile Payment Apps,Active
+PREM7177,CNT-CDP-5391-438,688-16-5212,5531,Querterly,Check,Active
+PREM4648,CNT-CDP-0288-826,803-89-9048,2487,Querterly,Online Payment Portals,Active
+PREM1191,CNT-CDP-3503-303,589-94-4692,6098,Semi-Annually,Credit or Debit Card,Expired
+PREM4389,CNT-CDP-5357-954,618-65-3141,1889,Semi-Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM1728,CNT-CDP-0934-058,168-79-9741,9540,Semi-Annually,Mobile Payment Apps,Pending
+PREM9043,CNT-CDP-4963-721,516-23-5305,3394,Querterly,Electronic Funds Transfer (EFT),Lapsed
+PREM5501,CNT-CDP-1484-935,832-63-4875,3657,Annually,Online Payment Portals,Pending
+PREM5997,CNT-CDP-8780-105,121-50-0345,9873,Annually,Credit or Debit Card,Active
+PREM5668,CNT-CDP-6185-150,235-15-1117,7336,Semi-Annually,In-Person Payments,Cancelled
+PREM5442,CNT-CDP-1981-863,471-25-7860,6483,Annually,Check,Renewed
+PREM0238,CNT-CDP-3494-580,694-45-4388,294,Semi-Annually,Mobile Payment Apps,Lapsed
+PREM3315,CNT-CDP-4355-213,472-69-9538,5762,Monthly,In-Person Payments,Lapsed
+PREM8559,CNT-CDP-7938-639,307-44-4074,9620,Annually,Electronic Funds Transfer (EFT),Suspended
+PREM8438,CNT-CDP-4697-713,821-33-0882,4341,Annually,Mobile Payment Apps,Lapsed
+PREM4697,CNT-CDP-1975-973,569-98-8973,3427,Annually,Direct Debit/Automatic Withdrawal,Expired
+PREM6273,CNT-CDP-4921-307,454-50-7352,988,Semi-Annually,Credit or Debit Card,Pending
+PREM1029,CNT-CDP-6985-319,683-23-9060,1515,Semi-Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM0495,CNT-CDP-2988-949,762-49-1943,1704,Semi-Annually,Electronic Funds Transfer (EFT),Pending
+PREM5415,CNT-CDP-8669-871,754-98-7758,5778,Querterly,Electronic Funds Transfer (EFT),Pending
+PREM2318,CNT-CDP-5796-269,207-74-6999,6592,Annually,Check,Renewed
+PREM0058,CNT-CDP-8741-560,811-79-7478,5821,Semi-Annually,Electronic Funds Transfer (EFT),Overdue
+PREM4472,CNT-CDP-9297-790,223-46-4546,7153,Semi-Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM9424,CNT-CDP-4470-928,364-56-0809,7571,Monthly,Phone Payments,Renewed
+PREM1223,CNT-CDP-4429-498,671-27-4240,9982,Annually,In-Person Payments,Expired
+PREM1143,CNT-CDP-6058-304,683-18-9050,3280,Annually,Mobile Payment Apps,Lapsed
+PREM4093,CNT-CDP-5380-165,525-43-4710,4270,Semi-Annually,Phone Payments,Expired
+PREM2734,CNT-CDP-7588-295,352-32-0242,1178,Monthly,Credit or Debit Card,Lapsed
+PREM5008,CNT-CDP-9630-827,479-25-3635,6535,Annually,Mobile Payment Apps,Expired
+PREM8811,CNT-CDP-8773-043,430-79-6857,8579,Querterly,In-Person Payments,Overdue
+PREM2667,CNT-CDP-7561-398,729-81-0268,799,Annually,Online Payment Portals,Expired
+PREM9094,CNT-CDP-7719-845,326-82-9096,6681,Querterly,Electronic Funds Transfer (EFT),Cancelled
+PREM5333,CNT-CDP-5220-589,678-02-9516,7116,Monthly,In-Person Payments,Suspended
+PREM3085,CNT-CDP-8773-843,444-86-0266,2503,Semi-Annually,Online Payment Portals,Active
+PREM8231,CNT-CDP-0939-082,863-73-9525,1741,Monthly,Phone Payments,Lapsed
+PREM3285,CNT-CDP-3707-775,586-70-4628,8988,Semi-Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM5910,CNT-CDP-0090-492,460-07-2521,6582,Querterly,Mobile Payment Apps,Overdue
+PREM2237,CNT-CDP-2038-439,128-62-7754,3826,Querterly,Direct Debit/Automatic Withdrawal,Overdue
+PREM9018,CNT-CDP-4814-607,197-07-9496,7749,Monthly,Mobile Payment Apps,Suspended
+PREM8325,CNT-CDP-1688-834,423-96-6886,8172,Monthly,Online Payment Portals,Suspended
+PREM4201,CNT-CDP-3954-692,122-82-0920,4525,Querterly,Credit or Debit Card,Suspended
+PREM8626,CNT-CDP-1334-847,366-58-7947,3618,Monthly,Direct Debit/Automatic Withdrawal,Expired
+PREM0598,CNT-CDP-3548-047,127-51-7648,6657,Monthly,Credit or Debit Card,Overdue
+PREM2048,CNT-CDP-3895-588,364-43-2698,4735,Annually,Electronic Funds Transfer (EFT),Active
+PREM2570,CNT-CDP-9907-355,516-04-6814,1479,Annually,Online Payment Portals,Expired
+PREM0024,CNT-CDP-7234-278,817-61-1069,3689,Semi-Annually,Credit or Debit Card,Lapsed
+PREM6816,CNT-CDP-4465-001,316-66-0906,531,Semi-Annually,Online Payment Portals,Pending
+PREM5353,CNT-CDP-7174-379,142-96-7706,3390,Annually,Phone Payments,Suspended
+PREM0802,CNT-CDP-8556-256,165-41-9536,4957,Querterly,Online Payment Portals,Pending
+PREM1981,CNT-CDP-1305-765,521-61-8005,8734,Semi-Annually,Credit or Debit Card,Overdue
+PREM8430,CNT-CDP-0069-374,253-85-8722,5915,Monthly,Mobile Payment Apps,Overdue
+PREM2038,CNT-CDP-1303-991,409-48-5094,1677,Querterly,Phone Payments,Renewed
+PREM3679,CNT-CDP-5884-809,231-14-6774,5713,Semi-Annually,Mobile Payment Apps,Pending
+PREM6285,CNT-CDP-2922-987,696-66-8047,6834,Semi-Annually,In-Person Payments,Active
+PREM3285,CNT-CDP-2082-812,441-45-4434,1582,Querterly,Check,Expired
+PREM0558,CNT-CDP-0826-776,584-74-5070,8278,Querterly,Phone Payments,Renewed
+PREM0273,CNT-CDP-3629-412,638-84-9548,2657,Querterly,Credit or Debit Card,Suspended
+PREM4602,CNT-CDP-9142-487,503-37-0019,351,Semi-Annually,Direct Debit/Automatic Withdrawal,Active
+PREM6076,CNT-CDP-6371-507,379-37-7126,1970,Annually,Mobile Payment Apps,Active
+PREM5867,CNT-CDP-6186-446,395-52-7205,507,Semi-Annually,In-Person Payments,Renewed
+PREM0141,CNT-CDP-4859-759,435-10-4849,3800,Monthly,Direct Debit/Automatic Withdrawal,Lapsed
+PREM0292,CNT-CDP-1047-296,863-28-4647,7594,Monthly,Credit or Debit Card,Overdue
+PREM5558,CNT-CDP-6094-001,182-79-4944,2919,Querterly,In-Person Payments,Suspended
+PREM2516,CNT-CDP-3624-661,391-21-7230,5995,Annually,Check,Pending
+PREM3930,CNT-CDP-4219-166,440-33-5693,2599,Monthly,Direct Debit/Automatic Withdrawal,Expired
+PREM4566,CNT-CDP-3182-970,281-62-2599,4501,Querterly,Credit or Debit Card,Overdue
+PREM9307,CNT-CDP-0640-615,754-98-7758,4148,Annually,Phone Payments,Cancelled
+PREM4399,CNT-CDP-3633-103,767-53-8839,8483,Semi-Annually,Mobile Payment Apps,Expired
+PREM5954,CNT-CDP-4429-498,671-27-4240,9203,Annually,In-Person Payments,Pending
+PREM4929,CNT-CDP-4117-855,882-29-5174,5245,Semi-Annually,Credit or Debit Card,Overdue
+PREM1071,CNT-CDP-5856-605,347-63-3246,7094,Annually,Direct Debit/Automatic Withdrawal,Overdue
+PREM7028,CNT-CDP-9084-081,168-52-1435,148,Annually,Electronic Funds Transfer (EFT),Overdue
+PREM0476,CNT-CDP-7386-126,204-89-0224,2070,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM6149,CNT-CDP-2292-369,822-34-8592,6368,Semi-Annually,Online Payment Portals,Lapsed
+PREM6502,CNT-CDP-8553-322,836-04-2999,3183,Semi-Annually,Direct Debit/Automatic Withdrawal,Suspended
+PREM8004,CNT-CDP-8383-950,749-97-9210,3221,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM8086,CNT-CDP-7326-892,253-80-6341,1346,Querterly,Online Payment Portals,Active
+PREM0195,CNT-CDP-6185-150,235-15-1117,4423,Annually,In-Person Payments,Suspended
+PREM6266,CNT-CDP-0939-154,137-92-1680,1972,Querterly,Online Payment Portals,Lapsed
+PREM4502,CNT-CDP-6055-378,384-12-1031,4338,Monthly,Credit or Debit Card,Lapsed
+PREM6714,CNT-CDP-5265-729,299-78-7188,9676,Semi-Annually,Online Payment Portals,Cancelled
+PREM6787,CNT-CDP-9035-645,611-29-2776,1020,Monthly,Phone Payments,Renewed
+PREM5172,CNT-CDP-1484-935,832-63-4875,7729,Querterly,Check,Renewed
+PREM8069,CNT-CDP-9737-633,743-99-0167,4455,Annually,Phone Payments,Cancelled
+PREM6863,CNT-CDP-3801-216,499-72-2020,5231,Semi-Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM9312,CNT-CDP-1405-757,590-63-4215,6087,Semi-Annually,Phone Payments,Overdue
+PREM5619,CNT-CDP-0466-712,692-55-4716,9771,Monthly,In-Person Payments,Cancelled
+PREM7365,CNT-CDP-7235-800,516-69-6549,5136,Monthly,Credit or Debit Card,Expired
+PREM8754,CNT-CDP-0616-505,863-28-4647,6687,Monthly,Check,Overdue
+PREM3775,CNT-CDP-8648-617,281-81-1398,2234,Querterly,Credit or Debit Card,Cancelled
+PREM3387,CNT-CDP-8578-432,313-95-3567,1858,Monthly,Credit or Debit Card,Expired
+PREM8315,CNT-CDP-0453-769,769-30-2685,618,Querterly,Online Payment Portals,Lapsed
+PREM6167,CNT-CDP-5417-947,774-26-8823,7401,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM3209,CNT-CDP-4868-339,462-50-5376,5555,Annually,Online Payment Portals,Lapsed
+PREM2004,CNT-CDP-7314-241,175-29-0870,273,Semi-Annually,Mobile Payment Apps,Overdue
+PREM0579,CNT-CDP-0090-492,460-07-2521,3073,Semi-Annually,Online Payment Portals,Lapsed
+PREM7618,CNT-CDP-3951-998,401-04-8498,4152,Querterly,Check,Active
+PREM5797,CNT-CDP-3959-709,185-30-3761,4060,Monthly,Check,Lapsed
+PREM7288,CNT-CDP-4609-512,622-30-1101,917,Querterly,Online Payment Portals,Renewed
+PREM3231,CNT-CDP-9670-435,369-81-1487,5745,Semi-Annually,Electronic Funds Transfer (EFT),Lapsed
+PREM7625,CNT-CDP-6675-366,136-67-3745,3890,Annually,Electronic Funds Transfer (EFT),Suspended
+PREM7954,CNT-CDP-0958-753,236-74-4042,4293,Semi-Annually,Check,Active
+PREM4089,CNT-CDP-0045-043,358-44-0561,112,Semi-Annually,Phone Payments,Pending
+PREM0924,CNT-CDP-2250-134,446-41-6870,1758,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM7809,CNT-CDP-8758-934,302-41-8386,3572,Monthly,Credit or Debit Card,Overdue
+PREM2527,CNT-CDP-8958-285,432-40-6023,8299,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM0812,CNT-CDP-4238-598,646-41-5274,6323,Querterly,In-Person Payments,Lapsed
+PREM7135,CNT-CDP-5264-974,312-79-1518,4146,Semi-Annually,Mobile Payment Apps,Suspended
+PREM3076,CNT-CDP-6567-876,202-51-5487,4471,Querterly,Phone Payments,Active
+PREM2521,CNT-CDP-9688-417,869-20-0883,8630,Querterly,Direct Debit/Automatic Withdrawal,Pending
+PREM1936,CNT-CDP-6356-443,647-12-9070,7519,Monthly,Mobile Payment Apps,Renewed
+PREM3889,CNT-CDP-8163-364,438-12-4628,5072,Annually,In-Person Payments,Renewed
+PREM3125,CNT-CDP-5803-851,622-30-1101,7103,Annually,Credit or Debit Card,Suspended
+PREM1340,CNT-CDP-3189-138,389-16-9961,9124,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM0559,CNT-CDP-4118-325,726-71-9373,4218,Annually,Phone Payments,Lapsed
+PREM1620,CNT-CDP-4581-349,541-57-2145,2523,Annually,Direct Debit/Automatic Withdrawal,Active
+PREM9026,CNT-CDP-9229-908,862-15-0803,7952,Monthly,Online Payment Portals,Suspended
+PREM1929,CNT-CDP-2038-439,128-62-7754,1980,Querterly,Credit or Debit Card,Pending
+PREM6408,CNT-CDP-6016-002,336-91-9867,232,Annually,Credit or Debit Card,Lapsed
+PREM3498,CNT-CDP-0739-372,281-73-6808,4415,Querterly,In-Person Payments,Expired
+PREM1920,CNT-CDP-8562-124,683-18-9050,6640,Monthly,Phone Payments,Renewed
+PREM5501,CNT-CDP-8176-312,718-24-9799,7090,Annually,Credit or Debit Card,Suspended
+PREM1465,CNT-CDP-6342-343,209-96-9359,6596,Querterly,Phone Payments,Suspended
+PREM1689,CNT-CDP-1585-636,608-97-9026,5824,Annually,Online Payment Portals,Pending
+PREM0494,CNT-CDP-0227-977,309-64-6753,6069,Querterly,Online Payment Portals,Active
+PREM1358,CNT-CDP-1754-791,436-44-7581,9377,Semi-Annually,Credit or Debit Card,Cancelled
+PREM1033,CNT-CDP-1120-060,108-98-3421,8618,Annually,Direct Debit/Automatic Withdrawal,Suspended
+PREM4395,CNT-CDP-5199-683,652-70-9706,3291,Querterly,Check,Expired
+PREM3192,CNT-CDP-4331-816,597-42-6584,8040,Semi-Annually,In-Person Payments,Lapsed
+PREM0581,CNT-CDP-5175-748,172-85-1067,9212,Monthly,Phone Payments,Renewed
+PREM9159,CNT-CDP-4908-047,400-21-1001,1776,Monthly,In-Person Payments,Suspended
+PREM3077,CNT-CDP-6407-252,794-04-1916,9383,Annually,Online Payment Portals,Renewed
+PREM9210,CNT-CDP-8825-295,794-04-1916,6650,Semi-Annually,Electronic Funds Transfer (EFT),Suspended
+PREM9039,CNT-CDP-4465-001,316-66-0906,7535,Monthly,Electronic Funds Transfer (EFT),Expired
+PREM1220,CNT-CDP-4602-854,129-65-4400,9800,Querterly,Credit or Debit Card,Renewed
+PREM3461,CNT-CDP-2588-283,420-65-0039,9684,Monthly,Mobile Payment Apps,Pending
+PREM1824,CNT-CDP-2950-681,335-04-6424,3575,Annually,In-Person Payments,Expired
+PREM5023,CNT-CDP-2950-279,828-69-1991,7544,Semi-Annually,Electronic Funds Transfer (EFT),Renewed
+PREM1156,CNT-CDP-7379-495,683-23-9060,4584,Semi-Annually,Direct Debit/Automatic Withdrawal,Overdue
+PREM3623,CNT-CDP-2895-185,405-95-7014,4349,Querterly,Online Payment Portals,Lapsed
+PREM3131,CNT-CDP-8598-484,826-78-8664,4564,Semi-Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM8431,CNT-CDP-4785-095,329-77-4299,7884,Semi-Annually,Check,Suspended
+PREM9072,CNT-CDP-4716-686,350-82-8206,5837,Semi-Annually,Direct Debit/Automatic Withdrawal,Renewed
+PREM8474,CNT-CDP-6624-320,338-59-2665,3478,Querterly,In-Person Payments,Expired
+PREM7758,CNT-CDP-0206-644,429-65-7811,3479,Semi-Annually,Check,Active
+PREM6967,CNT-CDP-8393-267,349-12-0495,1506,Querterly,Credit or Debit Card,Overdue
+PREM2590,CNT-CDP-6859-791,235-15-1117,3571,Annually,Online Payment Portals,Expired
+PREM2876,CNT-CDP-5990-156,529-86-3176,1488,Semi-Annually,Phone Payments,Lapsed
+PREM4993,CNT-CDP-0005-227,475-34-2789,383,Semi-Annually,Direct Debit/Automatic Withdrawal,Active
+PREM9214,CNT-CDP-4884-670,863-58-3723,7212,Semi-Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM9070,CNT-CDP-4901-899,875-28-7154,1874,Semi-Annually,Phone Payments,Suspended
+PREM5188,CNT-CDP-7045-592,842-33-0692,8847,Semi-Annually,Credit or Debit Card,Expired
+PREM6444,CNT-CDP-3251-625,413-10-2162,6818,Annually,Check,Cancelled
+PREM5922,CNT-CDP-5327-190,842-64-0009,6288,Monthly,Check,Lapsed
+PREM9700,CNT-CDP-6628-502,648-86-4577,7060,Querterly,In-Person Payments,Overdue
+PREM9274,CNT-CDP-6476-370,699-90-2611,3158,Annually,Online Payment Portals,Active
+PREM3906,CNT-CDP-8711-127,483-11-4619,4637,Semi-Annually,Mobile Payment Apps,Pending
+PREM8650,CNT-CDP-5737-022,885-30-2051,9717,Monthly,Online Payment Portals,Pending
+PREM8057,CNT-CDP-3703-412,172-85-1067,7168,Semi-Annually,Electronic Funds Transfer (EFT),Suspended
+PREM7437,CNT-CDP-8553-322,836-04-2999,4592,Querterly,Electronic Funds Transfer (EFT),Pending
+PREM2150,CNT-CDP-7969-902,589-94-4692,1103,Semi-Annually,In-Person Payments,Pending
+PREM1968,CNT-CDP-4581-349,541-57-2145,4127,Semi-Annually,Phone Payments,Expired
+PREM3732,CNT-CDP-4226-906,660-89-2485,6570,Querterly,Credit or Debit Card,Suspended
+PREM6026,CNT-CDP-5503-575,552-78-2235,1765,Annually,Online Payment Portals,Active
+PREM4487,CNT-CDP-4776-326,568-17-3551,9992,Annually,Online Payment Portals,Suspended
+PREM1275,CNT-CDP-1023-535,405-23-1770,2644,Querterly,Credit or Debit Card,Overdue
+PREM9100,CNT-CDP-0090-492,460-07-2521,144,Annually,Online Payment Portals,Overdue
+PREM5328,CNT-CDP-7404-978,641-01-2782,189,Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM0720,CNT-CDP-6726-517,886-42-9408,6378,Monthly,Electronic Funds Transfer (EFT),Active
+PREM9260,CNT-CDP-0745-264,823-30-1230,733,Semi-Annually,Credit or Debit Card,Expired
+PREM1431,CNT-CDP-7486-471,320-72-8082,4338,Annually,Credit or Debit Card,Suspended
+PREM7575,CNT-CDP-3793-548,306-27-1825,8806,Semi-Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM4139,CNT-CDP-3750-460,436-44-7581,870,Annually,In-Person Payments,Overdue
+PREM3905,CNT-CDP-8625-924,882-39-2517,5823,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM7718,CNT-CDP-2299-141,236-74-4042,4440,Annually,Mobile Payment Apps,Overdue
+PREM4732,CNT-CDP-2950-279,828-69-1991,3997,Querterly,In-Person Payments,Suspended
+PREM2112,CNT-CDP-8916-844,176-91-5939,366,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM3447,CNT-CDP-1752-610,205-22-8990,1626,Semi-Annually,Phone Payments,Lapsed
+PREM9291,CNT-CDP-5921-425,532-71-6847,8676,Annually,Phone Payments,Pending
+PREM7070,CNT-CDP-8383-950,749-97-9210,5903,Querterly,Electronic Funds Transfer (EFT),Cancelled
+PREM7382,CNT-CDP-9250-207,105-43-4308,8460,Monthly,In-Person Payments,Lapsed
+PREM1027,CNT-CDP-4766-809,329-77-4299,4460,Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM5927,CNT-CDP-8986-905,483-11-4619,8270,Monthly,Mobile Payment Apps,Active
+PREM5391,CNT-CDP-1664-104,462-04-0827,1685,Annually,Check,Active
+PREM0728,CNT-CDP-3067-246,789-21-3161,9796,Annually,Online Payment Portals,Lapsed
+PREM2049,CNT-CDP-4908-047,400-21-1001,2742,Querterly,Direct Debit/Automatic Withdrawal,Renewed
+PREM3919,CNT-CDP-7893-229,453-66-2725,4242,Querterly,Mobile Payment Apps,Pending
+PREM1070,CNT-CDP-4150-445,842-64-0009,2180,Querterly,Check,Renewed
+PREM2306,CNT-CDP-7379-495,683-23-9060,4064,Monthly,Online Payment Portals,Expired
+PREM8698,CNT-CDP-1167-031,492-69-2793,3919,Semi-Annually,Phone Payments,Renewed
+PREM8987,CNT-CDP-6380-002,382-44-9399,4854,Annually,Direct Debit/Automatic Withdrawal,Active
+PREM4552,CNT-CDP-2586-072,836-04-2999,6150,Annually,Mobile Payment Apps,Pending
+PREM1735,CNT-CDP-9732-097,235-15-1117,3230,Semi-Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM4605,CNT-CDP-8613-486,204-84-2965,8688,Monthly,Mobile Payment Apps,Pending
+PREM9325,CNT-CDP-6016-002,336-91-9867,9519,Monthly,Mobile Payment Apps,Active
+PREM2172,CNT-CDP-7535-994,338-59-2665,431,Querterly,Electronic Funds Transfer (EFT),Suspended
+PREM9528,CNT-CDP-9352-861,485-56-3024,8762,Semi-Annually,Check,Active
+PREM7414,CNT-CDP-3423-266,527-90-6987,9128,Annually,Phone Payments,Cancelled
+PREM9223,CNT-CDP-2771-099,590-14-9022,8324,Semi-Annually,Check,Lapsed
+PREM4873,CNT-CDP-7683-513,116-08-6992,6467,Semi-Annually,In-Person Payments,Suspended
+PREM6383,CNT-CDP-0408-502,432-40-6023,2091,Querterly,Phone Payments,Active
+PREM4245,CNT-CDP-2639-503,598-76-7465,944,Monthly,In-Person Payments,Suspended
+PREM6229,CNT-CDP-6447-362,517-96-6739,5276,Annually,Electronic Funds Transfer (EFT),Renewed
+PREM5952,CNT-CDP-7379-491,511-66-9471,6230,Annually,Direct Debit/Automatic Withdrawal,Lapsed
+PREM8583,CNT-CDP-8572-047,122-55-4301,7026,Querterly,Phone Payments,Suspended
+PREM0142,CNT-CDP-2140-742,787-25-1617,7546,Monthly,Credit or Debit Card,Cancelled
+PREM3472,CNT-CDP-4272-021,523-80-3435,5238,Semi-Annually,In-Person Payments,Renewed
+PREM3599,CNT-CDP-4297-856,559-35-0106,4343,Semi-Annually,Check,Pending
+PREM3366,CNT-CDP-8097-521,571-27-8259,4449,Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM3484,CNT-CDP-1023-535,405-23-1770,277,Semi-Annually,Mobile Payment Apps,Renewed
+PREM4007,CNT-CDP-8729-673,541-57-2145,7222,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM8524,CNT-CDP-8624-324,640-73-8121,6915,Annually,Electronic Funds Transfer (EFT),Renewed
+PREM3308,CNT-CDP-4726-769,309-64-6753,5430,Semi-Annually,Electronic Funds Transfer (EFT),Renewed
+PREM7558,CNT-CDP-6814-078,154-64-8431,2822,Annually,Online Payment Portals,Cancelled
+PREM8458,CNT-CDP-8141-632,648-53-3431,3071,Annually,In-Person Payments,Lapsed
+PREM7774,CNT-CDP-1528-993,305-32-7126,4450,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM0153,CNT-CDP-0766-102,784-23-9227,3548,Monthly,Check,Lapsed
+PREM3550,CNT-CDP-6539-835,739-86-6514,150,Monthly,In-Person Payments,Overdue
+PREM0679,CNT-CDP-3716-837,726-09-9498,5001,Monthly,Electronic Funds Transfer (EFT),Pending
+PREM6674,CNT-CDP-5265-729,299-78-7188,4941,Querterly,Credit or Debit Card,Lapsed
+PREM6609,CNT-CDP-7146-925,117-05-3734,9268,Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM1537,CNT-CDP-0513-363,414-80-2739,710,Semi-Annually,Credit or Debit Card,Active
+PREM3974,CNT-CDP-7174-379,142-96-7706,4044,Monthly,Mobile Payment Apps,Overdue
+PREM1713,CNT-CDP-6703-939,622-11-1615,1424,Annually,Electronic Funds Transfer (EFT),Active
+PREM9370,CNT-CDP-6926-210,410-38-8800,71,Querterly,Check,Renewed
+PREM6227,CNT-CDP-5608-302,453-66-2725,4066,Querterly,Phone Payments,Cancelled
+PREM6915,CNT-CDP-0936-342,469-47-1784,4940,Semi-Annually,In-Person Payments,Pending
+PREM6538,CNT-CDP-5729-354,583-19-2261,5138,Annually,Credit or Debit Card,Renewed
+PREM4223,CNT-CDP-2895-185,405-95-7014,6554,Semi-Annually,Online Payment Portals,Lapsed
+PREM9607,CNT-CDP-1299-479,576-22-8234,8264,Monthly,In-Person Payments,Expired
+PREM3625,CNT-CDP-9161-928,299-78-7188,1788,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM3149,CNT-CDP-5348-125,498-47-0662,2785,Querterly,Mobile Payment Apps,Pending
+PREM8408,CNT-CDP-3529-529,233-98-7822,3601,Monthly,Credit or Debit Card,Active
+PREM8888,CNT-CDP-1388-251,518-58-6058,5512,Monthly,Electronic Funds Transfer (EFT),Lapsed
+PREM6756,CNT-CDP-7938-639,307-44-4074,9976,Annually,Online Payment Portals,Expired
+PREM0143,CNT-CDP-3006-027,793-39-8139,1374,Semi-Annually,Electronic Funds Transfer (EFT),Expired
+PREM5692,CNT-CDP-6491-686,508-77-1702,5645,Semi-Annually,In-Person Payments,Expired
+PREM0551,CNT-CDP-9213-941,446-41-6870,594,Querterly,Credit or Debit Card,Expired
+PREM7119,CNT-CDP-4697-553,748-18-5529,2130,Monthly,Direct Debit/Automatic Withdrawal,Suspended
+PREM5179,CNT-CDP-7012-459,730-87-9665,1401,Annually,Online Payment Portals,Pending
+PREM5436,CNT-CDP-1731-897,654-30-6134,5133,Querterly,Direct Debit/Automatic Withdrawal,Overdue
+PREM7948,CNT-CDP-1528-993,305-32-7126,7116,Monthly,Electronic Funds Transfer (EFT),Lapsed
+PREM6211,CNT-CDP-0745-264,823-30-1230,7650,Monthly,Phone Payments,Active
+PREM1971,CNT-CDP-4071-313,394-39-8605,9467,Annually,Online Payment Portals,Lapsed
+PREM8012,CNT-CDP-1755-795,577-06-7349,9997,Annually,Check,Renewed
+PREM1699,CNT-CDP-0059-008,845-85-8761,2724,Semi-Annually,Direct Debit/Automatic Withdrawal,Lapsed
+PREM7367,CNT-CDP-7386-126,204-89-0224,805,Querterly,Check,Active
+PREM4688,CNT-CDP-1744-820,232-36-4675,201,Annually,Mobile Payment Apps,Pending
+PREM8355,CNT-CDP-0873-808,135-79-2822,9616,Annually,Online Payment Portals,Suspended
+PREM6991,CNT-CDP-6217-509,565-68-9682,1328,Monthly,Electronic Funds Transfer (EFT),Overdue
+PREM5705,CNT-CDP-8773-043,430-79-6857,8431,Annually,Electronic Funds Transfer (EFT),Expired
+PREM4398,CNT-CDP-5348-125,498-47-0662,6931,Querterly,Mobile Payment Apps,Expired
+PREM3424,CNT-CDP-2948-417,366-76-1690,4278,Monthly,Credit or Debit Card,Overdue
+PREM1557,CNT-CDP-6671-361,786-23-4888,2526,Querterly,Direct Debit/Automatic Withdrawal,Suspended
+PREM3649,CNT-CDP-7486-471,320-72-8082,6592,Monthly,Credit or Debit Card,Lapsed
+PREM6653,CNT-CDP-3791-760,587-46-8092,9078,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM4039,CNT-CDP-8945-045,194-32-2924,3985,Semi-Annually,Direct Debit/Automatic Withdrawal,Active
+PREM7541,CNT-CDP-4706-084,809-02-4761,4534,Querterly,Credit or Debit Card,Lapsed
+PREM0468,CNT-CDP-3954-692,122-82-0920,7080,Monthly,In-Person Payments,Renewed
+PREM4588,CNT-CDP-7461-885,330-89-0336,5010,Querterly,Electronic Funds Transfer (EFT),Expired
+PREM4223,CNT-CDP-6833-954,749-97-9210,76,Monthly,Mobile Payment Apps,Active
+PREM9728,CNT-CDP-8620-279,350-82-8206,3922,Monthly,Credit or Debit Card,Suspended
+PREM9341,CNT-CDP-6391-152,472-83-8236,3372,Monthly,In-Person Payments,Lapsed
+PREM4025,CNT-CDP-8971-863,297-67-6147,2707,Monthly,Direct Debit/Automatic Withdrawal,Pending
+PREM9339,CNT-CDP-7846-837,779-38-6747,3960,Monthly,Check,Suspended
+PREM0505,CNT-CDP-3173-410,397-05-4780,3633,Semi-Annually,Online Payment Portals,Expired
+PREM7161,CNT-CDP-6612-374,469-65-9333,2665,Semi-Annually,Credit or Debit Card,Lapsed
+PREM7164,CNT-CDP-0826-776,584-74-5070,1619,Monthly,Mobile Payment Apps,Renewed
+PREM1331,CNT-CDP-3540-143,313-95-3567,9625,Monthly,Electronic Funds Transfer (EFT),Active
+PREM6147,CNT-CDP-1106-486,684-54-0608,1149,Querterly,Credit or Debit Card,Expired
+PREM1103,CNT-CDP-0648-936,678-24-3779,4733,Annually,Phone Payments,Lapsed
+PREM5457,CNT-CDP-4580-978,479-25-3635,814,Monthly,Online Payment Portals,Pending
+PREM9190,CNT-CDP-7038-625,856-84-5835,7661,Semi-Annually,Online Payment Portals,Overdue
+PREM6399,CNT-CDP-7225-678,255-68-1656,7785,Querterly,Credit or Debit Card,Suspended
+PREM6296,CNT-CDP-3821-674,309-18-0710,3028,Monthly,Direct Debit/Automatic Withdrawal,Overdue
+PREM0293,CNT-CDP-8322-326,386-35-2129,8737,Semi-Annually,Check,Pending
+PREM8834,CNT-CDP-9035-645,611-29-2776,9066,Semi-Annually,Mobile Payment Apps,Renewed
+PREM6902,CNT-CDP-9726-381,196-90-9715,4731,Annually,Check,Lapsed
+PREM8889,CNT-CDP-8381-392,748-18-5529,4861,Monthly,Check,Pending
+PREM2306,CNT-CDP-9737-633,743-99-0167,8578,Annually,Electronic Funds Transfer (EFT),Overdue
+PREM1441,CNT-CDP-3722-698,335-18-2624,2350,Monthly,Online Payment Portals,Pending
+PREM8749,CNT-CDP-6703-032,611-49-6271,5050,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM5971,CNT-CDP-3272-397,417-81-9390,4647,Querterly,Phone Payments,Pending
+PREM5777,CNT-CDP-0012-149,157-96-5213,8866,Monthly,Mobile Payment Apps,Suspended
+PREM1494,CNT-CDP-7316-520,159-60-4499,4839,Semi-Annually,In-Person Payments,Suspended
+PREM4454,CNT-CDP-8711-127,483-11-4619,7856,Monthly,Check,Expired
+PREM0972,CNT-CDP-2948-417,366-76-1690,8607,Semi-Annually,In-Person Payments,Lapsed
+PREM5012,CNT-CDP-8309-891,521-61-8005,2081,Annually,Credit or Debit Card,Active
+PREM2745,CNT-CDP-5664-951,417-63-0056,5538,Semi-Annually,Direct Debit/Automatic Withdrawal,Suspended
+PREM3747,CNT-CDP-6784-030,505-12-3386,4509,Annually,Credit or Debit Card,Expired
+PREM8223,CNT-CDP-7840-240,213-89-8076,6957,Semi-Annually,Online Payment Portals,Lapsed
+PREM9483,CNT-CDP-3385-096,411-70-3989,8058,Annually,Mobile Payment Apps,Renewed
+PREM6333,CNT-CDP-9033-520,630-51-1682,6388,Monthly,In-Person Payments,Suspended
+PREM8913,CNT-CDP-9670-435,369-81-1487,6239,Monthly,Direct Debit/Automatic Withdrawal,Expired
+PREM0531,CNT-CDP-4430-615,320-47-9640,2871,Querterly,Phone Payments,Expired
+PREM5859,CNT-CDP-1708-875,653-48-2778,5776,Monthly,Phone Payments,Overdue
+PREM4885,CNT-CDP-7041-635,821-30-6004,7837,Monthly,Electronic Funds Transfer (EFT),Cancelled
+PREM0060,CNT-CDP-2779-510,364-43-2698,9100,Querterly,Check,Pending
+PREM6009,CNT-CDP-9688-417,869-20-0883,8952,Monthly,Phone Payments,Expired
+PREM9597,CNT-CDP-4470-928,364-56-0809,2897,Annually,In-Person Payments,Expired
+PREM0388,CNT-CDP-8399-261,420-93-0043,6810,Querterly,Electronic Funds Transfer (EFT),Pending
+PREM0499,CNT-CDP-9269-169,384-12-1031,3395,Monthly,In-Person Payments,Expired
+PREM1019,CNT-CDP-7980-782,176-84-2096,922,Semi-Annually,Phone Payments,Expired
+PREM1202,CNT-CDP-2255-039,204-89-0224,8549,Annually,Direct Debit/Automatic Withdrawal,Active
+PREM4183,CNT-CDP-9193-513,291-23-3142,54,Querterly,Online Payment Portals,Cancelled
+PREM9329,CNT-CDP-8741-560,811-79-7478,9183,Querterly,Check,Expired
+PREM6430,CNT-CDP-2082-812,441-45-4434,2241,Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM4838,CNT-CDP-0541-865,674-16-7205,3864,Semi-Annually,Mobile Payment Apps,Pending
+PREM9355,CNT-CDP-6674-789,261-37-4176,8467,Semi-Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM9543,CNT-CDP-0616-505,863-28-4647,3779,Querterly,Check,Renewed
+PREM5497,CNT-CDP-0043-128,369-81-1487,4824,Monthly,Electronic Funds Transfer (EFT),Cancelled
+PREM2604,CNT-CDP-2291-941,831-70-3318,8792,Monthly,Mobile Payment Apps,Suspended
+PREM4158,CNT-CDP-8132-693,601-93-8041,7567,Monthly,Check,Expired
+PREM1009,CNT-CDP-2934-125,523-80-3435,3754,Querterly,In-Person Payments,Lapsed
+PREM6518,CNT-CDP-4915-489,568-17-3551,4495,Semi-Annually,In-Person Payments,Overdue
+PREM4990,CNT-CDP-0376-223,240-36-3667,9669,Monthly,Direct Debit/Automatic Withdrawal,Lapsed
+PREM1006,CNT-CDP-8865-006,709-74-7875,1801,Semi-Annually,Check,Cancelled
+PREM7800,CNT-CDP-6145-479,885-28-7203,8068,Monthly,Mobile Payment Apps,Renewed
+PREM6797,CNT-CDP-1303-991,409-48-5094,4,Monthly,Mobile Payment Apps,Overdue
+PREM3151,CNT-CDP-4832-606,160-36-8380,20,Semi-Annually,Online Payment Portals,Cancelled
+PREM7529,CNT-CDP-5856-605,347-63-3246,8,Semi-Annually,Check,Active
+PREM3510,CNT-CDP-1794-354,417-63-0056,5565,Monthly,Credit or Debit Card,Suspended
+PREM2745,CNT-CDP-3673-368,850-49-5357,4096,Monthly,Credit or Debit Card,Active
+PREM4921,CNT-CDP-0506-660,541-57-2145,3861,Monthly,Mobile Payment Apps,Renewed
+PREM5521,CNT-CDP-3502-551,788-15-9864,6830,Querterly,Direct Debit/Automatic Withdrawal,Expired
+PREM9424,CNT-CDP-0206-644,429-65-7811,126,Querterly,Phone Payments,Renewed
+PREM1072,CNT-CDP-4365-728,335-22-1485,1782,Querterly,Check,Overdue
+PREM5893,CNT-CDP-4388-592,578-71-8021,1691,Annually,Direct Debit/Automatic Withdrawal,Active
+PREM4919,CNT-CDP-4874-154,130-44-9143,4000,Annually,Phone Payments,Lapsed
+PREM4184,CNT-CDP-7767-366,522-74-5310,3029,Monthly,Online Payment Portals,Cancelled
+PREM3115,CNT-CDP-2268-140,571-01-2642,8301,Annually,Phone Payments,Pending
+PREM9964,CNT-CDP-8556-256,165-41-9536,3011,Semi-Annually,Mobile Payment Apps,Pending
+PREM0757,CNT-CDP-8627-277,295-17-0041,3764,Annually,Check,Pending
+PREM6686,CNT-CDP-0192-106,386-35-2129,4935,Annually,Check,Overdue
+PREM2155,CNT-CDP-6674-789,261-37-4176,1252,Querterly,Direct Debit/Automatic Withdrawal,Suspended
+PREM1428,CNT-CDP-5102-868,421-25-3301,3927,Monthly,Mobile Payment Apps,Suspended
+PREM4145,CNT-CDP-0220-379,560-54-1044,601,Annually,Phone Payments,Expired
+PREM4544,CNT-CDP-0034-578,192-60-6314,6117,Semi-Annually,Electronic Funds Transfer (EFT),Pending
+PREM0143,CNT-CDP-4529-606,683-18-9050,3002,Monthly,Mobile Payment Apps,Cancelled
+PREM5794,CNT-CDP-5796-269,207-74-6999,4640,Annually,Mobile Payment Apps,Expired
+PREM7809,CNT-CDP-6686-333,172-93-6292,5316,Semi-Annually,Electronic Funds Transfer (EFT),Lapsed
+PREM4840,CNT-CDP-3173-410,397-05-4780,3266,Querterly,Electronic Funds Transfer (EFT),Renewed
+PREM0539,CNT-CDP-2832-547,295-50-6362,3730,Monthly,In-Person Payments,Pending
+PREM9670,CNT-CDP-5357-954,618-65-3141,4033,Monthly,Check,Pending
+PREM7062,CNT-CDP-2968-518,707-70-2974,8094,Monthly,Online Payment Portals,Active
+PREM8029,CNT-CDP-9435-295,378-87-1056,5481,Querterly,Direct Debit/Automatic Withdrawal,Expired
+PREM7355,CNT-CDP-5039-924,107-22-6715,740,Annually,Credit or Debit Card,Expired
+PREM2890,CNT-CDP-8916-844,176-91-5939,6356,Querterly,Credit or Debit Card,Lapsed
+PREM7633,CNT-CDP-6399-413,425-60-9329,9607,Semi-Annually,Electronic Funds Transfer (EFT),Suspended
+PREM0944,CNT-CDP-4655-347,253-85-8722,4776,Semi-Annually,Credit or Debit Card,Lapsed
+PREM9597,CNT-CDP-2401-328,532-93-7617,8966,Monthly,Online Payment Portals,Cancelled
+PREM0923,CNT-CDP-8889-788,702-29-5126,5748,Monthly,Online Payment Portals,Active
+PREM1144,CNT-CDP-7460-400,729-52-4503,7094,Monthly,Phone Payments,Lapsed
+PREM7634,CNT-CDP-9120-282,379-80-0956,8953,Monthly,Credit or Debit Card,Lapsed
+PREM5828,CNT-CDP-6587-959,283-48-1886,2017,Annually,Check,Expired
+PREM9912,CNT-CDP-7225-678,255-68-1656,8848,Annually,Phone Payments,Active
+PREM4847,CNT-CDP-8971-863,297-67-6147,9371,Querterly,In-Person Payments,Cancelled
+PREM3507,CNT-CDP-7212-177,348-43-7882,9484,Semi-Annually,Phone Payments,Active
+PREM1236,CNT-CDP-1302-592,780-52-0025,1433,Querterly,Check,Active
+PREM4830,CNT-CDP-8556-256,165-41-9536,5322,Annually,Credit or Debit Card,Renewed
+PREM7840,CNT-CDP-6384-458,577-94-4504,7191,Annually,In-Person Payments,Pending
+PREM4805,CNT-CDP-3895-588,364-43-2698,7973,Semi-Annually,Credit or Debit Card,Cancelled
+PREM5692,CNT-CDP-1752-610,205-22-8990,7982,Querterly,Direct Debit/Automatic Withdrawal,Suspended
+PREM3455,CNT-CDP-9120-282,379-80-0956,6638,Querterly,Direct Debit/Automatic Withdrawal,Active
+PREM5334,CNT-CDP-2849-882,532-85-3774,6850,Monthly,Electronic Funds Transfer (EFT),Active
+PREM8813,CNT-CDP-2875-651,572-52-6215,5080,Monthly,Check,Overdue
+PREM8378,CNT-CDP-9470-533,331-86-5929,4476,Querterly,Credit or Debit Card,Pending
+PREM2694,CNT-CDP-9973-546,682-15-3715,9868,Semi-Annually,Mobile Payment Apps,Active
+PREM2251,CNT-CDP-2559-978,482-40-1690,5557,Semi-Annually,Phone Payments,Expired
+PREM7734,CNT-CDP-3835-236,107-43-5220,513,Monthly,Electronic Funds Transfer (EFT),Overdue
+PREM8723,CNT-CDP-6853-799,369-01-4000,7450,Semi-Annually,Electronic Funds Transfer (EFT),Overdue
+PREM7015,CNT-CDP-8865-006,709-74-7875,7242,Monthly,Direct Debit/Automatic Withdrawal,Pending
+PREM3502,CNT-CDP-7041-635,821-30-6004,1532,Monthly,Electronic Funds Transfer (EFT),Suspended
+PREM9832,CNT-CDP-9804-486,532-85-3774,3878,Semi-Annually,Check,Active
+PREM9013,CNT-CDP-6539-835,739-86-6514,1434,Querterly,In-Person Payments,Suspended
+PREM4377,CNT-CDP-4298-194,653-48-2778,2988,Semi-Annually,Online Payment Portals,Lapsed
+PREM3528,CNT-CDP-4833-012,532-85-3774,5565,Monthly,Electronic Funds Transfer (EFT),Cancelled
+PREM5469,CNT-CDP-4726-769,309-64-6753,999,Annually,Electronic Funds Transfer (EFT),Lapsed
+PREM1875,CNT-CDP-3936-853,177-43-9176,6173,Annually,Online Payment Portals,Renewed
+PREM8158,CNT-CDP-6192-370,688-16-5212,4656,Annually,Credit or Debit Card,Cancelled
+PREM4261,CNT-CDP-2104-665,399-40-1520,4124,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM9066,CNT-CDP-4691-864,577-44-6995,4334,Semi-Annually,Phone Payments,Pending
+PREM9138,CNT-CDP-0506-660,541-57-2145,8755,Semi-Annually,Online Payment Portals,Overdue
+PREM3531,CNT-CDP-7299-158,281-62-2599,8214,Monthly,Credit or Debit Card,Expired
+PREM3617,CNT-CDP-5587-142,410-82-3708,7851,Querterly,Check,Cancelled
+PREM3610,CNT-CDP-7904-696,400-21-1001,4209,Monthly,Direct Debit/Automatic Withdrawal,Overdue
+PREM6271,CNT-CDP-1981-863,471-25-7860,5452,Monthly,Online Payment Portals,Suspended
+PREM2813,CNT-CDP-4117-855,882-29-5174,8258,Querterly,Check,Active
+PREM9737,CNT-CDP-3408-470,831-61-9528,1680,Querterly,Check,Pending
+PREM9718,CNT-CDP-8132-693,601-93-8041,5832,Querterly,In-Person Payments,Pending
+PREM0447,CNT-CDP-9881-842,391-99-3823,1488,Querterly,Electronic Funds Transfer (EFT),Renewed
+PREM3674,CNT-CDP-4379-909,545-54-0867,6819,Querterly,Direct Debit/Automatic Withdrawal,Overdue
+PREM0859,CNT-CDP-7938-639,307-44-4074,5783,Annually,Online Payment Portals,Expired
+PREM2163,CNT-CDP-8495-917,618-40-5613,9148,Semi-Annually,Phone Payments,Lapsed
+PREM4227,CNT-CDP-3895-588,364-43-2698,1680,Annually,Online Payment Portals,Overdue
+PREM3041,CNT-CDP-4435-896,384-51-6805,5135,Semi-Annually,Mobile Payment Apps,Cancelled
+PREM8884,CNT-CDP-0453-769,769-30-2685,2992,Semi-Annually,Mobile Payment Apps,Pending
+PREM6048,CNT-CDP-8958-285,432-40-6023,8294,Monthly,Online Payment Portals,Active
+PREM7458,CNT-CDP-6814-078,154-64-8431,8771,Semi-Annually,Check,Suspended
+PREM9945,CNT-CDP-5039-924,107-22-6715,9998,Annually,Phone Payments,Lapsed
+PREM3924,CNT-CDP-0439-088,483-35-2656,9664,Monthly,Credit or Debit Card,Suspended
+PREM8723,CNT-CDP-1681-460,484-11-7643,9295,Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM5122,CNT-CDP-3830-130,648-58-2228,3602,Querterly,Phone Payments,Expired
+PREM2728,CNT-CDP-7741-528,601-93-8041,7115,Annually,Direct Debit/Automatic Withdrawal,Renewed
+PREM0409,CNT-CDP-8064-734,235-15-1117,8716,Monthly,Mobile Payment Apps,Overdue
+PREM4777,CNT-CDP-9208-549,309-54-2863,3802,Annually,Electronic Funds Transfer (EFT),Renewed
+PREM8308,CNT-CDP-4246-537,443-29-7883,5648,Monthly,Phone Payments,Expired
+PREM6454,CNT-CDP-9352-861,485-56-3024,4096,Annually,In-Person Payments,Overdue
+PREM3522,CNT-CDP-6654-149,708-53-8002,7542,Querterly,In-Person Payments,Pending
+PREM9036,CNT-CDP-4366-796,582-84-5518,6807,Semi-Annually,Electronic Funds Transfer (EFT),Renewed
+PREM4605,CNT-CDP-8176-312,718-24-9799,4013,Semi-Annually,Mobile Payment Apps,Overdue
+PREM8367,CNT-CDP-0658-463,144-57-2660,4276,Annually,Check,Active
+PREM2660,CNT-CDP-1585-636,608-97-9026,8510,Monthly,Online Payment Portals,Pending
+PREM2671,CNT-CDP-6784-885,126-23-8300,4279,Annually,Electronic Funds Transfer (EFT),Renewed
+PREM7345,CNT-CDP-4859-484,435-10-4849,2692,Querterly,Check,Lapsed
+PREM9427,CNT-CDP-8598-484,826-78-8664,4773,Semi-Annually,Online Payment Portals,Suspended
+PREM6004,CNT-CDP-6703-939,622-11-1615,196,Annually,Online Payment Portals,Expired
+PREM8190,CNT-CDP-0393-340,185-83-8289,691,Annually,Credit or Debit Card,Lapsed
+PREM6033,CNT-CDP-1350-212,572-52-6215,1598,Semi-Annually,In-Person Payments,Pending
+PREM7650,CNT-CDP-4470-928,364-56-0809,4984,Semi-Annually,In-Person Payments,Lapsed
+PREM5640,CNT-CDP-6376-598,206-82-9014,1768,Querterly,Credit or Debit Card,Active
+PREM3916,CNT-CDP-1303-878,803-89-9048,3908,Semi-Annually,Mobile Payment Apps,Suspended
+PREM2860,CNT-CDP-2664-430,505-40-2843,3920,Querterly,Direct Debit/Automatic Withdrawal,Renewed
+PREM0277,CNT-CDP-1642-307,569-98-8973,9828,Querterly,In-Person Payments,Active
+PREM8487,CNT-CDP-2125-864,271-25-6631,1064,Annually,Electronic Funds Transfer (EFT),Pending
+PREM5646,CNT-CDP-2683-741,306-27-1825,2503,Monthly,Electronic Funds Transfer (EFT),Active
+PREM0491,CNT-CDP-1691-543,526-47-3815,972,Monthly,Mobile Payment Apps,Pending
+PREM8305,CNT-CDP-9199-884,430-57-8881,3670,Semi-Annually,Phone Payments,Pending
+PREM8523,CNT-CDP-1451-468,472-69-9538,3029,Querterly,Online Payment Portals,Active
+PREM3274,CNT-CDP-2846-703,290-40-6634,9465,Monthly,Check,Expired
+PREM4560,CNT-CDP-3951-998,401-04-8498,5480,Monthly,Online Payment Portals,Pending
+PREM1426,CNT-CDP-7893-229,453-66-2725,219,Querterly,Phone Payments,Renewed
+PREM3122,CNT-CDP-2327-965,556-44-4543,1500,Annually,Electronic Funds Transfer (EFT),Expired
+PREM0978,CNT-CDP-0764-907,168-94-1362,5511,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM0432,CNT-CDP-0873-808,135-79-2822,3090,Annually,Online Payment Portals,Suspended
+PREM6923,CNT-CDP-1598-945,194-03-6170,4718,Monthly,Check,Suspended
+PREM5395,CNT-CDP-9959-328,309-64-6753,2319,Querterly,Credit or Debit Card,Expired
+PREM4003,CNT-CDP-7840-240,213-89-8076,5035,Annually,Check,Pending
+PREM9111,CNT-CDP-4379-909,545-54-0867,5534,Monthly,Online Payment Portals,Renewed
+PREM6632,CNT-CDP-2478-608,583-74-6686,7027,Semi-Annually,In-Person Payments,Suspended
+PREM8759,CNT-CDP-0226-497,897-52-4675,7403,Querterly,Credit or Debit Card,Expired
+PREM7953,CNT-CDP-7934-726,708-86-3495,8401,Querterly,In-Person Payments,Lapsed
+PREM5819,CNT-CDP-7570-004,333-94-4387,7282,Semi-Annually,In-Person Payments,Cancelled
+PREM5985,CNT-CDP-6916-808,117-05-3734,4056,Monthly,Check,Renewed
+PREM0257,CNT-CDP-7487-651,307-13-0638,1901,Annually,Mobile Payment Apps,Active
+PREM0680,CNT-CDP-9534-381,859-29-5605,3616,Monthly,Online Payment Portals,Renewed
+PREM6628,CNT-CDP-9475-768,660-89-2485,7144,Monthly,Credit or Debit Card,Lapsed
+PREM4535,CNT-CDP-5199-683,652-70-9706,9227,Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM0937,CNT-CDP-0658-463,144-57-2660,1311,Annually,Mobile Payment Apps,Expired
+PREM6919,CNT-CDP-4366-796,582-84-5518,7515,Querterly,Mobile Payment Apps,Pending
+PREM8561,CNT-CDP-6461-353,527-99-2794,5577,Annually,Credit or Debit Card,Renewed
+PREM8384,CNT-CDP-3716-837,726-09-9498,1171,Semi-Annually,Direct Debit/Automatic Withdrawal,Overdue
+PREM8250,CNT-CDP-8303-782,484-11-7643,9038,Monthly,Online Payment Portals,Pending
+PREM1302,CNT-CDP-2771-099,590-14-9022,508,Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM3119,CNT-CDP-4884-670,863-58-3723,4702,Semi-Annually,Mobile Payment Apps,Cancelled
+PREM1400,CNT-CDP-4238-598,646-41-5274,5493,Semi-Annually,Electronic Funds Transfer (EFT),Lapsed
+PREM2832,CNT-CDP-7552-534,706-92-3972,6458,Annually,Check,Suspended
+PREM2553,CNT-CDP-8097-521,571-27-8259,471,Monthly,Direct Debit/Automatic Withdrawal,Overdue
+PREM3841,CNT-CDP-9470-533,331-86-5929,8460,Annually,In-Person Payments,Overdue
+PREM5910,CNT-CDP-2460-019,397-69-2805,7538,Semi-Annually,Direct Debit/Automatic Withdrawal,Renewed
+PREM0824,CNT-CDP-8836-480,589-94-4692,6371,Semi-Annually,Online Payment Portals,Active
+PREM6292,CNT-CDP-7619-646,742-02-5983,8584,Querterly,Electronic Funds Transfer (EFT),Lapsed
+PREM2282,CNT-CDP-2962-572,522-29-3424,5001,Semi-Annually,Electronic Funds Transfer (EFT),Renewed
+PREM1118,CNT-CDP-8651-605,516-04-6814,332,Monthly,Check,Active
+PREM1670,CNT-CDP-9269-169,384-12-1031,7121,Semi-Annually,Credit or Debit Card,Overdue
+PREM6419,CNT-CDP-4967-777,417-81-9390,3424,Annually,Mobile Payment Apps,Pending
+PREM1943,CNT-CDP-3629-412,638-84-9548,7620,Monthly,Credit or Debit Card,Suspended
+PREM9257,CNT-CDP-9831-777,482-40-1690,9612,Annually,Phone Payments,Pending
+PREM9933,CNT-CDP-0080-363,852-03-7194,2292,Semi-Annually,Online Payment Portals,Overdue
+PREM3823,CNT-CDP-2640-709,743-99-0167,5394,Querterly,In-Person Payments,Pending
+PREM9910,CNT-CDP-1435-185,659-84-4620,788,Annually,Check,Overdue
+PREM5164,CNT-CDP-0152-682,399-02-7593,444,Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM7627,CNT-CDP-5803-851,622-30-1101,6031,Semi-Annually,In-Person Payments,Pending
+PREM5270,CNT-CDP-9804-486,532-85-3774,6110,Monthly,Mobile Payment Apps,Active
+PREM5814,CNT-CDP-6185-150,235-15-1117,1024,Semi-Annually,Online Payment Portals,Expired
+PREM6678,CNT-CDP-4238-598,646-41-5274,3177,Querterly,Mobile Payment Apps,Pending
+PREM0908,CNT-CDP-2846-703,290-40-6634,6171,Monthly,Direct Debit/Automatic Withdrawal,Pending
+PREM0692,CNT-CDP-7379-495,683-23-9060,88,Annually,Phone Payments,Lapsed
+PREM4292,CNT-CDP-7089-233,400-01-7648,3145,Monthly,Mobile Payment Apps,Active
+PREM4708,CNT-CDP-0648-936,678-24-3779,9363,Semi-Annually,Check,Lapsed
+PREM6692,CNT-CDP-6281-979,571-27-8259,292,Annually,Online Payment Portals,Suspended
+PREM8253,CNT-CDP-8743-030,112-96-8059,4244,Querterly,Credit or Debit Card,Overdue
+PREM4501,CNT-CDP-2290-256,508-50-1790,4338,Monthly,Check,Suspended
+PREM1223,CNT-CDP-9688-417,869-20-0883,6591,Monthly,Credit or Debit Card,Overdue
+PREM5845,CNT-CDP-7848-670,122-55-4301,5557,Semi-Annually,Mobile Payment Apps,Suspended
+PREM2515,CNT-CDP-2283-636,469-18-8371,266,Annually,Credit or Debit Card,Overdue
+PREM5218,CNT-CDP-4885-368,522-74-3333,679,Annually,Phone Payments,Active
+PREM7874,CNT-CDP-5856-605,347-63-3246,7110,Semi-Annually,Phone Payments,Active
+PREM7706,CNT-CDP-4771-659,355-88-3336,5361,Querterly,Check,Overdue
+PREM1460,CNT-CDP-1664-571,544-08-8528,5628,Annually,Online Payment Portals,Cancelled
+PREM8160,CNT-CDP-2919-841,803-46-9263,9233,Annually,Credit or Debit Card,Active
+PREM0480,CNT-CDP-8865-006,709-74-7875,3176,Annually,In-Person Payments,Suspended
+PREM7876,CNT-CDP-6949-058,707-14-3743,5624,Querterly,Online Payment Portals,Renewed
+PREM5629,CNT-CDP-4879-954,478-48-7443,1732,Querterly,Check,Expired
+PREM2030,CNT-CDP-1054-629,653-48-2778,7704,Monthly,Electronic Funds Transfer (EFT),Active
+PREM4835,CNT-CDP-2640-709,743-99-0167,4080,Annually,In-Person Payments,Expired
+PREM0307,CNT-CDP-0848-075,329-77-4299,3058,Annually,Phone Payments,Pending
+PREM8013,CNT-CDP-5220-091,639-59-5909,3110,Annually,Credit or Debit Card,Active
+PREM5437,CNT-CDP-3473-243,879-99-8554,3521,Querterly,Online Payment Portals,Overdue
+PREM6606,CNT-CDP-1726-079,763-27-4967,2985,Semi-Annually,Direct Debit/Automatic Withdrawal,Overdue
+PREM8211,CNT-CDP-7767-366,522-74-5310,92,Semi-Annually,Direct Debit/Automatic Withdrawal,Lapsed
+PREM6668,CNT-CDP-0094-053,382-06-6800,7393,Querterly,In-Person Payments,Suspended
+PREM7062,CNT-CDP-5463-404,890-42-9829,6337,Annually,Electronic Funds Transfer (EFT),Expired
+PREM9998,CNT-CDP-8624-324,640-73-8121,4737,Querterly,Online Payment Portals,Expired
+PREM0525,CNT-CDP-8495-917,618-40-5613,5997,Querterly,Mobile Payment Apps,Suspended
+PREM8742,CNT-CDP-9917-012,234-75-7522,5817,Annually,Mobile Payment Apps,Suspended
+PREM1960,CNT-CDP-4832-606,160-36-8380,4342,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM2843,CNT-CDP-5138-432,485-17-0690,3432,Querterly,Check,Expired
+PREM4738,CNT-CDP-4025-134,657-47-2248,7227,Monthly,Check,Pending
+PREM0282,CNT-CDP-9071-527,410-01-6579,3810,Monthly,In-Person Payments,Overdue
+PREM7909,CNT-CDP-6654-149,708-53-8002,2542,Semi-Annually,Credit or Debit Card,Expired
+PREM8569,CNT-CDP-4692-704,137-73-4935,5941,Querterly,Online Payment Portals,Lapsed
+PREM1727,CNT-CDP-3115-981,478-48-7443,6505,Semi-Annually,In-Person Payments,Suspended
+PREM3641,CNT-CDP-5298-940,420-93-0043,3932,Annually,Credit or Debit Card,Pending
+PREM2180,CNT-CDP-5264-974,312-79-1518,9060,Semi-Annually,Mobile Payment Apps,Overdue
+PREM6068,CNT-CDP-8773-043,430-79-6857,6361,Annually,Phone Payments,Renewed
+PREM1579,CNT-CDP-0903-216,182-13-3034,1923,Annually,Credit or Debit Card,Cancelled
+PREM0652,CNT-CDP-1172-175,479-33-8552,4403,Querterly,Phone Payments,Pending
+PREM8014,CNT-CDP-5587-142,410-82-3708,7723,Monthly,Phone Payments,Overdue
+PREM7251,CNT-CDP-3633-103,767-53-8839,7620,Annually,In-Person Payments,Overdue
+PREM2992,CNT-CDP-3714-990,701-70-7269,1762,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM7261,CNT-CDP-0640-615,754-98-7758,7835,Querterly,Credit or Debit Card,Renewed
+PREM8133,CNT-CDP-9161-928,299-78-7188,6557,Monthly,In-Person Payments,Cancelled
+PREM1531,CNT-CDP-3703-412,172-85-1067,6923,Semi-Annually,Online Payment Portals,Suspended
+PREM3912,CNT-CDP-0608-681,684-49-6147,9972,Annually,Mobile Payment Apps,Overdue
+PREM1379,CNT-CDP-0372-592,126-86-4015,4582,Semi-Annually,Phone Payments,Overdue
+PREM9802,CNT-CDP-3750-460,436-44-7581,2892,Annually,Credit or Debit Card,Cancelled
+PREM8782,CNT-CDP-5503-575,552-78-2235,1460,Querterly,Mobile Payment Apps,Lapsed
+PREM9626,CNT-CDP-8710-618,527-90-6987,1937,Semi-Annually,In-Person Payments,Suspended
+PREM3590,CNT-CDP-9721-992,320-72-8082,5961,Semi-Annually,In-Person Payments,Pending
+PREM7414,CNT-CDP-0291-814,490-64-8020,3531,Querterly,Electronic Funds Transfer (EFT),Lapsed
+PREM3981,CNT-CDP-7904-696,400-21-1001,7925,Monthly,Online Payment Portals,Active
+PREM3410,CNT-CDP-4794-011,105-24-5963,4450,Semi-Annually,Phone Payments,Suspended
+PREM1642,CNT-CDP-3830-130,648-58-2228,1902,Semi-Annually,Phone Payments,Overdue
+PREM3208,CNT-CDP-8201-958,177-43-9176,131,Querterly,Electronic Funds Transfer (EFT),Expired
+PREM0726,CNT-CDP-1388-251,518-58-6058,6883,Annually,In-Person Payments,Overdue
+PREM5881,CNT-CDP-2968-518,707-70-2974,8113,Monthly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM6068,CNT-CDP-1152-783,891-27-9474,2903,Monthly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM9259,CNT-CDP-4219-166,440-33-5693,3268,Monthly,Phone Payments,Cancelled
+PREM9837,CNT-CDP-8017-864,863-73-9525,680,Semi-Annually,Direct Debit/Automatic Withdrawal,Active
+PREM7933,CNT-CDP-4859-484,435-10-4849,5815,Querterly,Check,Renewed
+PREM7956,CNT-CDP-1585-636,608-97-9026,7643,Querterly,Phone Payments,Pending
+PREM5423,CNT-CDP-4874-503,102-21-1414,1914,Monthly,Check,Cancelled
+PREM8842,CNT-CDP-4223-178,294-53-3385,3803,Annually,In-Person Payments,Lapsed
+PREM8718,CNT-CDP-6574-463,173-33-5474,8970,Semi-Annually,Phone Payments,Overdue
+PREM8545,CNT-CDP-5184-234,564-07-3591,1516,Annually,Electronic Funds Transfer (EFT),Suspended
+PREM2758,CNT-CDP-9006-328,236-74-4042,3422,Querterly,Phone Payments,Renewed
+PREM4011,CNT-CDP-7234-278,817-61-1069,1874,Querterly,Phone Payments,Pending
+PREM7897,CNT-CDP-7980-782,176-84-2096,7986,Querterly,In-Person Payments,Suspended
+PREM3317,CNT-CDP-0372-592,126-86-4015,7569,Querterly,Electronic Funds Transfer (EFT),Overdue
+PREM0998,CNT-CDP-8452-467,572-54-4752,8588,Semi-Annually,In-Person Payments,Pending
+PREM6873,CNT-CDP-9688-417,869-20-0883,1067,Annually,Electronic Funds Transfer (EFT),Active
+PREM4307,CNT-CDP-2460-019,397-69-2805,7300,Querterly,Credit or Debit Card,Cancelled
+PREM0474,CNT-CDP-7938-639,307-44-4074,8678,Annually,Phone Payments,Renewed
+PREM0287,CNT-CDP-3649-607,276-40-7872,7338,Querterly,Online Payment Portals,Pending
+PREM6737,CNT-CDP-6371-507,379-37-7126,1879,Monthly,Credit or Debit Card,Pending
+PREM9228,CNT-CDP-6475-694,107-22-6715,4637,Semi-Annually,Check,Renewed
+PREM7764,CNT-CDP-7717-377,772-58-7916,1749,Annually,Direct Debit/Automatic Withdrawal,Active
+PREM4170,CNT-CDP-3529-529,233-98-7822,8442,Monthly,Electronic Funds Transfer (EFT),Lapsed
+PREM9255,CNT-CDP-7628-757,206-82-9014,4281,Semi-Annually,Electronic Funds Transfer (EFT),Renewed
+PREM9407,CNT-CDP-9510-554,598-76-7465,5361,Semi-Annually,Phone Payments,Renewed
+PREM6276,CNT-CDP-0206-644,429-65-7811,6040,Semi-Annually,Phone Payments,Expired
+PREM2423,CNT-CDP-9446-125,339-35-4231,6019,Semi-Annually,Phone Payments,Lapsed
+PREM8191,CNT-CDP-1234-769,675-06-9696,9941,Monthly,Online Payment Portals,Expired
+PREM1048,CNT-CDP-9670-435,369-81-1487,7689,Querterly,In-Person Payments,Pending
+PREM6278,CNT-CDP-6911-649,206-82-9014,1071,Monthly,Credit or Debit Card,Expired
+PREM5035,CNT-CDP-5583-933,757-43-9631,4127,Annually,Direct Debit/Automatic Withdrawal,Expired
+PREM3147,CNT-CDP-1272-413,577-44-6995,1013,Semi-Annually,Credit or Debit Card,Pending
+PREM8712,CNT-CDP-8986-905,483-11-4619,885,Semi-Annually,Credit or Debit Card,Expired
+PREM9856,CNT-CDP-5917-016,230-79-0511,9668,Querterly,Phone Payments,Suspended
+PREM0873,CNT-CDP-7012-459,730-87-9665,8591,Semi-Annually,Check,Pending
+PREM9909,CNT-CDP-6359-891,268-99-3106,9133,Querterly,Electronic Funds Transfer (EFT),Renewed
+PREM2171,CNT-CDP-0034-578,192-60-6314,3063,Monthly,Mobile Payment Apps,Pending
+PREM9118,CNT-CDP-4343-248,719-79-7096,4897,Monthly,Online Payment Portals,Lapsed
+PREM8497,CNT-CDP-9640-675,126-86-4015,7191,Annually,Credit or Debit Card,Renewed
+PREM0595,CNT-CDP-4427-989,819-29-9354,1021,Annually,Credit or Debit Card,Cancelled
+PREM4302,CNT-CDP-5615-634,395-52-7205,8321,Semi-Annually,Check,Expired
+PREM0689,CNT-CDP-0574-136,593-06-9806,891,Querterly,Phone Payments,Suspended
+PREM0717,CNT-CDP-7934-726,708-86-3495,4050,Semi-Annually,Electronic Funds Transfer (EFT),Pending
+PREM8810,CNT-CDP-0376-223,240-36-3667,4862,Annually,Online Payment Portals,Renewed
+PREM3271,CNT-CDP-5027-740,803-89-9048,858,Semi-Annually,Credit or Debit Card,Expired
+PREM1209,CNT-CDP-7072-802,384-12-1031,6599,Semi-Annually,Check,Expired
+PREM8108,CNT-CDP-1592-484,413-81-5827,4979,Monthly,Check,Renewed
+PREM3414,CNT-CDP-3225-709,422-22-6500,5614,Monthly,Credit or Debit Card,Cancelled
+PREM6770,CNT-CDP-4893-951,202-17-8422,2234,Semi-Annually,Check,Pending
+PREM1503,CNT-CDP-0300-151,618-65-3141,9951,Monthly,Electronic Funds Transfer (EFT),Overdue
+PREM5013,CNT-CDP-8986-905,483-11-4619,7367,Monthly,Electronic Funds Transfer (EFT),Overdue
+PREM3058,CNT-CDP-3627-043,517-96-6739,7611,Semi-Annually,In-Person Payments,Cancelled
+PREM4404,CNT-CDP-5503-541,842-33-0692,6371,Monthly,Mobile Payment Apps,Suspended
+PREM3950,CNT-CDP-0152-682,399-02-7593,1832,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM7465,CNT-CDP-0703-703,485-17-0690,6399,Semi-Annually,Check,Expired
+PREM6664,CNT-CDP-7552-534,706-92-3972,2462,Monthly,Online Payment Portals,Cancelled
+PREM6243,CNT-CDP-7234-278,817-61-1069,4840,Monthly,Check,Renewed
+PREM8723,CNT-CDP-1132-893,339-05-1707,2894,Monthly,In-Person Payments,Renewed
+PREM2418,CNT-CDP-4388-592,578-71-8021,4753,Annually,Electronic Funds Transfer (EFT),Overdue
+PREM5255,CNT-CDP-3239-793,146-09-6810,1757,Querterly,Mobile Payment Apps,Cancelled
+PREM8924,CNT-CDP-4228-131,108-98-3421,6224,Querterly,Phone Payments,Overdue
+PREM5731,CNT-CDP-7422-970,176-91-5939,48,Semi-Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM3787,CNT-CDP-9721-612,297-67-6147,6173,Monthly,Online Payment Portals,Cancelled
+PREM2604,CNT-CDP-5884-498,814-90-5059,3880,Semi-Annually,In-Person Payments,Suspended
+PREM1955,CNT-CDP-8519-024,505-12-3386,8319,Semi-Annually,Check,Renewed
+PREM2457,CNT-CDP-2461-700,126-86-4015,3482,Semi-Annually,In-Person Payments,Suspended
+PREM4961,CNT-CDP-4691-864,577-44-6995,7442,Querterly,Mobile Payment Apps,Expired
+PREM9059,CNT-CDP-6461-353,527-99-2794,514,Semi-Annually,In-Person Payments,Renewed
+PREM3866,CNT-CDP-9092-897,398-74-8575,5983,Annually,Direct Debit/Automatic Withdrawal,Renewed
+PREM0781,CNT-CDP-6459-645,292-80-3409,4100,Monthly,Online Payment Portals,Cancelled
+PREM9034,CNT-CDP-3564-522,395-89-0632,674,Annually,Online Payment Portals,Pending
+PREM1704,CNT-CDP-2038-439,128-62-7754,7386,Annually,Online Payment Portals,Cancelled
+PREM7005,CNT-CDP-4233-970,839-73-6465,6839,Annually,Electronic Funds Transfer (EFT),Renewed
+PREM2568,CNT-CDP-3373-296,379-80-0956,3978,Monthly,Online Payment Portals,Lapsed
+PREM4724,CNT-CDP-3959-709,185-30-3761,6296,Semi-Annually,Phone Payments,Overdue
+PREM6521,CNT-CDP-6907-674,339-35-4231,2647,Annually,Credit or Debit Card,Pending
+PREM3275,CNT-CDP-1754-791,436-44-7581,5069,Semi-Annually,Mobile Payment Apps,Pending
+PREM7204,CNT-CDP-0138-654,572-52-6215,7632,Annually,In-Person Payments,Expired
+PREM4848,CNT-CDP-5520-624,620-80-1535,7028,Semi-Annually,Online Payment Portals,Pending
+PREM4614,CNT-CDP-8392-022,888-60-2700,5954,Semi-Annually,Online Payment Portals,Suspended
+PREM3307,CNT-CDP-6362-620,572-26-6323,7232,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM8658,CNT-CDP-4472-033,498-96-5310,9005,Querterly,Check,Renewed
+PREM0881,CNT-CDP-6430-594,161-27-2102,8228,Annually,Phone Payments,Lapsed
+PREM8789,CNT-CDP-4289-140,332-50-8142,7828,Monthly,Online Payment Portals,Expired
+PREM2727,CNT-CDP-7866-739,314-07-7920,8974,Querterly,Mobile Payment Apps,Renewed
+PREM3727,CNT-CDP-3835-236,107-43-5220,9434,Annually,Credit or Debit Card,Lapsed
+PREM4351,CNT-CDP-4868-339,462-50-5376,2005,Querterly,Direct Debit/Automatic Withdrawal,Renewed
+PREM2436,CNT-CDP-4238-598,646-41-5274,5838,Querterly,Mobile Payment Apps,Lapsed
+PREM6769,CNT-CDP-7978-668,818-19-8936,4244,Semi-Annually,Check,Pending
+PREM2131,CNT-CDP-3502-551,788-15-9864,3271,Semi-Annually,Direct Debit/Automatic Withdrawal,Renewed
+PREM9332,CNT-CDP-8370-550,879-95-0564,8617,Annually,In-Person Payments,Renewed
+PREM5269,CNT-CDP-9576-379,133-79-4272,3620,Semi-Annually,Phone Payments,Expired
+PREM8268,CNT-CDP-4365-728,335-22-1485,150,Annually,Check,Lapsed
+PREM9159,CNT-CDP-0052-515,793-09-2729,4618,Monthly,Mobile Payment Apps,Pending
+PREM0855,CNT-CDP-9084-081,168-52-1435,8010,Querterly,Phone Payments,Overdue
+PREM5861,CNT-CDP-4392-631,457-48-0419,1202,Semi-Annually,Credit or Debit Card,Active
+PREM9664,CNT-CDP-0441-012,245-88-6897,8685,Monthly,Check,Active
+PREM4181,CNT-CDP-8648-617,281-81-1398,9986,Monthly,Electronic Funds Transfer (EFT),Pending
+PREM7101,CNT-CDP-8738-058,283-48-1886,2148,Semi-Annually,Mobile Payment Apps,Renewed
+PREM1406,CNT-CDP-2255-039,204-89-0224,4303,Annually,Check,Active
+PREM7903,CNT-CDP-5655-658,514-41-1595,79,Semi-Annually,Credit or Debit Card,Lapsed
+PREM4819,CNT-CDP-3548-047,127-51-7648,5443,Semi-Annually,Mobile Payment Apps,Expired
+PREM8772,CNT-CDP-6984-981,728-14-0129,108,Querterly,In-Person Payments,Lapsed
+PREM3529,CNT-CDP-5737-022,885-30-2051,651,Monthly,Check,Active
+PREM4170,CNT-CDP-2750-612,385-22-3959,5809,Annually,Phone Payments,Overdue
+PREM3897,CNT-CDP-3716-837,726-09-9498,7841,Monthly,Electronic Funds Transfer (EFT),Cancelled
+PREM0422,CNT-CDP-6641-080,505-12-3386,5662,Semi-Annually,Phone Payments,Renewed
+PREM2812,CNT-CDP-0192-106,386-35-2129,1909,Querterly,Phone Payments,Lapsed
+PREM2487,CNT-CDP-4602-854,129-65-4400,6215,Annually,Check,Renewed
+PREM5147,CNT-CDP-4388-561,772-58-7916,5273,Monthly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM0573,CNT-CDP-8097-521,571-27-8259,9707,Semi-Annually,Credit or Debit Card,Expired
+PREM6842,CNT-CDP-7045-592,842-33-0692,1426,Semi-Annually,In-Person Payments,Overdue
+PREM7610,CNT-CDP-2186-658,785-51-7143,5431,Semi-Annually,In-Person Payments,Renewed
+PREM0960,CNT-CDP-4581-349,541-57-2145,2122,Querterly,In-Person Payments,Expired
+PREM5819,CNT-CDP-9213-941,446-41-6870,7980,Semi-Annually,In-Person Payments,Overdue
+PREM9603,CNT-CDP-4726-769,309-64-6753,4724,Querterly,Phone Payments,Overdue
+PREM2827,CNT-CDP-2779-510,364-43-2698,863,Annually,Credit or Debit Card,Lapsed
+PREM3087,CNT-CDP-3520-881,240-36-3667,7431,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM3946,CNT-CDP-3173-410,397-05-4780,5435,Annually,Credit or Debit Card,Cancelled
+PREM9872,CNT-CDP-8773-843,444-86-0266,700,Annually,Phone Payments,Cancelled
+PREM8226,CNT-CDP-7169-983,718-09-6017,9307,Monthly,Mobile Payment Apps,Pending
+PREM7147,CNT-CDP-2082-812,441-45-4434,2353,Monthly,Online Payment Portals,Pending
+PREM3439,CNT-CDP-7386-126,204-89-0224,6921,Querterly,Phone Payments,Cancelled
+PREM3725,CNT-CDP-4112-553,839-73-6465,921,Querterly,Phone Payments,Active
+PREM7626,CNT-CDP-9697-067,399-02-7593,2130,Monthly,Phone Payments,Expired
+PREM1320,CNT-CDP-4874-154,130-44-9143,1869,Annually,Direct Debit/Automatic Withdrawal,Active
+PREM8097,CNT-CDP-6274-187,397-69-2805,303,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM6243,CNT-CDP-5417-947,774-26-8823,2232,Semi-Annually,In-Person Payments,Active
+PREM5832,CNT-CDP-9534-381,859-29-5605,2027,Annually,Phone Payments,Pending
+PREM5241,CNT-CDP-4874-503,102-21-1414,66,Querterly,In-Person Payments,Pending
+PREM3510,CNT-CDP-0098-302,622-30-1101,6302,Semi-Annually,Direct Debit/Automatic Withdrawal,Suspended
+PREM4708,CNT-CDP-6263-412,294-47-6704,9143,Semi-Annually,Check,Overdue
+PREM1326,CNT-CDP-0031-259,405-95-7014,267,Querterly,Direct Debit/Automatic Withdrawal,Active
+PREM3247,CNT-CDP-8023-432,749-97-9210,7171,Querterly,Direct Debit/Automatic Withdrawal,Expired
+PREM8276,CNT-CDP-6266-128,528-47-4959,3332,Querterly,In-Person Payments,Cancelled
+PREM9887,CNT-CDP-4605-615,511-63-3678,1577,Querterly,In-Person Payments,Renewed
+PREM1795,CNT-CDP-6907-674,339-35-4231,1559,Monthly,Electronic Funds Transfer (EFT),Lapsed
+PREM3199,CNT-CDP-9110-684,305-25-5939,1410,Annually,Check,Active
+PREM9900,CNT-CDP-0111-389,472-83-8236,9311,Semi-Annually,Online Payment Portals,Lapsed
+PREM0751,CNT-CDP-8572-047,122-55-4301,5664,Semi-Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM9260,CNT-CDP-0138-654,572-52-6215,3650,Querterly,Credit or Debit Card,Cancelled
+PREM0871,CNT-CDP-0903-673,252-84-5848,8942,Monthly,In-Person Payments,Cancelled
+PREM8057,CNT-CDP-5027-740,803-89-9048,7049,Annually,Phone Payments,Lapsed
+PREM6395,CNT-CDP-4618-585,133-87-1780,9913,Monthly,Mobile Payment Apps,Overdue
+PREM6643,CNT-CDP-6525-498,204-84-2965,3881,Querterly,Online Payment Portals,Renewed
+PREM6009,CNT-CDP-9161-928,299-78-7188,913,Querterly,Direct Debit/Automatic Withdrawal,Expired
+PREM7770,CNT-CDP-8768-613,364-25-4233,7485,Querterly,Check,Renewed
+PREM8016,CNT-CDP-0320-619,815-54-1401,6729,Querterly,Phone Payments,Overdue
+PREM1479,CNT-CDP-5333-521,261-11-1287,3416,Semi-Annually,Online Payment Portals,Suspended
+PREM8735,CNT-CDP-6859-791,235-15-1117,5073,Semi-Annually,Direct Debit/Automatic Withdrawal,Overdue
+PREM3198,CNT-CDP-3502-551,788-15-9864,1779,Querterly,Check,Expired
+PREM9791,CNT-CDP-2493-116,107-63-1394,5876,Monthly,Direct Debit/Automatic Withdrawal,Overdue
+PREM4451,CNT-CDP-6244-491,544-08-8528,928,Semi-Annually,Mobile Payment Apps,Cancelled
+PREM7740,CNT-CDP-4435-896,384-51-6805,2631,Semi-Annually,Check,Pending
+PREM0607,CNT-CDP-5770-589,674-28-9722,2948,Semi-Annually,Electronic Funds Transfer (EFT),Suspended
+PREM1637,CNT-CDP-0745-264,823-30-1230,5865,Semi-Annually,Phone Payments,Renewed
+PREM2442,CNT-CDP-9699-153,522-74-5310,4348,Monthly,Electronic Funds Transfer (EFT),Suspended
+PREM6503,CNT-CDP-6185-150,235-15-1117,3775,Monthly,Mobile Payment Apps,Lapsed
+PREM4604,CNT-CDP-2211-774,360-60-1633,861,Monthly,Mobile Payment Apps,Overdue
+PREM9887,CNT-CDP-8625-924,882-39-2517,253,Querterly,Phone Payments,Pending
+PREM0349,CNT-CDP-7073-735,143-46-2783,7511,Monthly,Online Payment Portals,Cancelled
+PREM6642,CNT-CDP-5393-636,682-28-5156,8797,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM5002,CNT-CDP-3538-331,728-88-9032,9695,Monthly,Check,Lapsed
+PREM7577,CNT-CDP-2186-658,785-51-7143,5095,Monthly,Check,Expired
+PREM7886,CNT-CDP-1820-045,894-74-3017,911,Querterly,Online Payment Portals,Expired
+PREM4985,CNT-CDP-4472-033,498-96-5310,9092,Querterly,Credit or Debit Card,Renewed
+PREM4685,CNT-CDP-9251-365,576-22-8234,1024,Semi-Annually,Direct Debit/Automatic Withdrawal,Suspended
+PREM6172,CNT-CDP-8627-277,295-17-0041,7911,Monthly,Phone Payments,Expired
+PREM2809,CNT-CDP-6274-187,397-69-2805,1326,Semi-Annually,Mobile Payment Apps,Renewed
+PREM1327,CNT-CDP-3592-132,852-44-3113,3941,Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM2404,CNT-CDP-2846-703,290-40-6634,9197,Monthly,Phone Payments,Suspended
+PREM9417,CNT-CDP-2652-622,347-30-3861,4165,Querterly,Direct Debit/Automatic Withdrawal,Lapsed
+PREM6959,CNT-CDP-7460-400,729-52-4503,2522,Monthly,Online Payment Portals,Pending
+PREM2139,CNT-CDP-6475-694,107-22-6715,3014,Semi-Annually,Online Payment Portals,Renewed
+PREM6911,CNT-CDP-2482-116,425-60-9329,649,Querterly,Check,Cancelled
+PREM8749,CNT-CDP-5491-579,729-52-4503,8703,Annually,Phone Payments,Active
+PREM3076,CNT-CDP-6359-891,268-99-3106,8674,Querterly,Mobile Payment Apps,Pending
+PREM4517,CNT-CDP-1686-121,743-99-0167,3588,Querterly,Credit or Debit Card,Renewed
+PREM2089,CNT-CDP-7755-654,640-73-8121,6913,Querterly,Electronic Funds Transfer (EFT),Pending
+PREM1067,CNT-CDP-1132-893,339-05-1707,5412,Monthly,Credit or Debit Card,Renewed
+PREM4695,CNT-CDP-8916-844,176-91-5939,929,Monthly,Online Payment Portals,Active
+PREM8008,CNT-CDP-4885-368,522-74-3333,4482,Monthly,Check,Active
+PREM6179,CNT-CDP-7719-845,326-82-9096,8228,Annually,In-Person Payments,Overdue
+PREM0929,CNT-CDP-7695-110,886-25-5637,4236,Querterly,Mobile Payment Apps,Cancelled
+PREM0124,CNT-CDP-6476-370,699-90-2611,5752,Semi-Annually,Mobile Payment Apps,Expired
+PREM7073,CNT-CDP-8383-950,749-97-9210,4457,Semi-Annually,Credit or Debit Card,Overdue
+PREM8914,CNT-CDP-6380-002,382-44-9399,6988,Annually,Credit or Debit Card,Pending
+PREM9659,CNT-CDP-1769-166,882-29-5174,5250,Querterly,Electronic Funds Transfer (EFT),Suspended
+PREM5694,CNT-CDP-0192-106,386-35-2129,9400,Querterly,Direct Debit/Automatic Withdrawal,Lapsed
+PREM9869,CNT-CDP-8090-667,736-72-4628,10,Annually,In-Person Payments,Renewed
+PREM7664,CNT-CDP-7526-443,550-33-5183,1174,Monthly,Mobile Payment Apps,Suspended
+PREM4295,CNT-CDP-3801-216,499-72-2020,2995,Querterly,Credit or Debit Card,Cancelled
+PREM8266,CNT-CDP-5745-522,793-09-2729,7684,Monthly,Credit or Debit Card,Pending
+PREM7858,CNT-CDP-4368-704,185-30-3761,7777,Semi-Annually,Check,Overdue
+PREM8390,CNT-CDP-2968-518,707-70-2974,4908,Semi-Annually,Direct Debit/Automatic Withdrawal,Active
+PREM4597,CNT-CDP-5492-471,549-08-3325,3328,Monthly,Credit or Debit Card,Overdue
+PREM4103,CNT-CDP-2425-737,176-29-9474,2243,Annually,In-Person Payments,Overdue
+PREM0637,CNT-CDP-3930-792,674-10-7843,6217,Semi-Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM2798,CNT-CDP-5503-541,842-33-0692,8567,Querterly,Credit or Debit Card,Expired
+PREM1849,CNT-CDP-1813-013,831-61-9528,7621,Monthly,Phone Payments,Renewed
+PREM0251,CNT-CDP-6368-860,568-30-1434,1092,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM1465,CNT-CDP-8780-023,108-98-3421,6524,Semi-Annually,Mobile Payment Apps,Lapsed
+PREM9285,CNT-CDP-8625-924,882-39-2517,4100,Semi-Annually,Online Payment Portals,Suspended
+PREM7808,CNT-CDP-8019-639,443-29-7883,4557,Annually,Mobile Payment Apps,Suspended
+PREM6816,CNT-CDP-1981-727,585-97-5767,1917,Monthly,Check,Cancelled
+PREM9232,CNT-CDP-1352-509,239-46-5126,8786,Querterly,Online Payment Portals,Pending
+PREM6657,CNT-CDP-5443-289,887-07-8129,8295,Annually,Mobile Payment Apps,Lapsed
+PREM2731,CNT-CDP-6240-985,705-52-1530,1445,Semi-Annually,Credit or Debit Card,Pending
+PREM0706,CNT-CDP-7896-678,349-62-6503,9737,Querterly,Direct Debit/Automatic Withdrawal,Renewed
+PREM1477,CNT-CDP-2548-369,568-17-3551,3864,Semi-Annually,In-Person Payments,Renewed
+PREM9896,CNT-CDP-2283-636,469-18-8371,6049,Annually,In-Person Payments,Active
+PREM4496,CNT-CDP-0059-008,845-85-8761,3486,Annually,Phone Payments,Active
+PREM4957,CNT-CDP-6784-885,126-23-8300,950,Semi-Annually,Mobile Payment Apps,Active
+PREM2097,CNT-CDP-1557-690,335-22-1485,3762,Querterly,In-Person Payments,Cancelled
+PREM4075,CNT-CDP-2255-039,204-89-0224,7634,Monthly,Online Payment Portals,Suspended
+PREM3642,CNT-CDP-1544-181,822-84-5975,5394,Annually,Phone Payments,Renewed
+PREM4709,CNT-CDP-2701-653,789-23-6374,7613,Querterly,Online Payment Portals,Overdue
+PREM8415,CNT-CDP-5622-270,793-39-8139,2457,Querterly,Credit or Debit Card,Suspended
+PREM6975,CNT-CDP-6472-018,454-59-9255,2438,Monthly,Check,Overdue
+PREM6834,CNT-CDP-3042-244,117-05-3734,3291,Querterly,Electronic Funds Transfer (EFT),Suspended
+PREM2629,CNT-CDP-6059-553,253-85-8722,9517,Monthly,Phone Payments,Suspended
+PREM9244,CNT-CDP-0453-769,769-30-2685,2232,Querterly,Phone Payments,Overdue
+PREM5476,CNT-CDP-6819-140,875-38-2089,9656,Semi-Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM0318,CNT-CDP-0608-681,684-49-6147,6886,Annually,Check,Expired
+PREM1654,CNT-CDP-0012-149,157-96-5213,4432,Semi-Annually,Check,Overdue
+PREM0301,CNT-CDP-1384-365,341-22-7806,2170,Monthly,Credit or Debit Card,Overdue
+PREM5182,CNT-CDP-6744-919,758-28-3233,5763,Monthly,In-Person Payments,Cancelled
+PREM9023,CNT-CDP-9033-520,630-51-1682,4647,Annually,In-Person Payments,Suspended
+PREM6861,CNT-CDP-7695-110,886-25-5637,9511,Semi-Annually,In-Person Payments,Renewed
+PREM1518,CNT-CDP-7969-902,589-94-4692,1810,Querterly,Mobile Payment Apps,Pending
+PREM2778,CNT-CDP-2140-742,787-25-1617,9336,Annually,Mobile Payment Apps,Lapsed
+PREM8092,CNT-CDP-9195-527,102-02-5320,2933,Semi-Annually,Phone Payments,Pending
+PREM6015,CNT-CDP-5550-244,730-09-8648,4066,Annually,Credit or Debit Card,Lapsed
+PREM6849,CNT-CDP-7089-233,400-01-7648,195,Semi-Annually,In-Person Payments,Cancelled
+PREM2486,CNT-CDP-3475-220,568-17-3551,3436,Annually,Online Payment Portals,Pending
+PREM0965,CNT-CDP-5847-992,348-24-6506,8662,Annually,Direct Debit/Automatic Withdrawal,Pending
+PREM6386,CNT-CDP-0288-826,803-89-9048,3133,Semi-Annually,Mobile Payment Apps,Active
+PREM5861,CNT-CDP-0551-871,576-62-9974,6637,Querterly,Electronic Funds Transfer (EFT),Renewed
+PREM1545,CNT-CDP-4475-174,758-28-3233,8982,Monthly,Electronic Funds Transfer (EFT),Suspended
+PREM6987,CNT-CDP-0059-008,845-85-8761,8582,Querterly,Online Payment Portals,Expired
+PREM9038,CNT-CDP-8459-406,143-46-2783,2593,Querterly,Credit or Debit Card,Suspended
+PREM4556,CNT-CDP-4716-686,350-82-8206,113,Annually,Direct Debit/Automatic Withdrawal,Renewed
+PREM0400,CNT-CDP-1484-935,832-63-4875,1721,Querterly,Online Payment Portals,Overdue
+PREM9963,CNT-CDP-0530-984,762-49-1943,3011,Querterly,Online Payment Portals,Pending
+PREM9547,CNT-CDP-8758-759,502-99-6386,9209,Annually,In-Person Payments,Overdue
+PREM1825,CNT-CDP-3189-415,398-74-8575,9970,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM9229,CNT-CDP-6362-620,572-26-6323,4452,Monthly,Electronic Funds Transfer (EFT),Suspended
+PREM0215,CNT-CDP-6440-083,371-43-5754,400,Monthly,In-Person Payments,Cancelled
+PREM0731,CNT-CDP-7928-952,444-86-0266,1514,Semi-Annually,Check,Cancelled
+PREM9569,CNT-CDP-7874-672,688-54-3391,7032,Semi-Annually,In-Person Payments,Active
+PREM6597,CNT-CDP-3373-296,379-80-0956,3756,Querterly,Direct Debit/Automatic Withdrawal,Suspended
+PREM6548,CNT-CDP-1201-052,815-75-7291,5544,Querterly,Mobile Payment Apps,Expired
+PREM7138,CNT-CDP-3311-950,335-18-2624,7779,Semi-Annually,Electronic Funds Transfer (EFT),Pending
+PREM9723,CNT-CDP-9768-397,205-47-8030,8053,Querterly,Credit or Debit Card,Renewed
+PREM7573,CNT-CDP-6805-890,742-02-5983,927,Semi-Annually,Mobile Payment Apps,Overdue
+PREM4301,CNT-CDP-4112-553,839-73-6465,6894,Annually,Electronic Funds Transfer (EFT),Renewed
+PREM8393,CNT-CDP-9640-675,126-86-4015,6014,Semi-Annually,Electronic Funds Transfer (EFT),Pending
+PREM8043,CNT-CDP-8822-651,332-50-8142,7928,Monthly,Electronic Funds Transfer (EFT),Overdue
+PREM7810,CNT-CDP-9629-903,706-92-3972,4629,Semi-Annually,Online Payment Portals,Pending
+PREM7837,CNT-CDP-9548-714,855-49-6195,21,Semi-Annually,Phone Payments,Cancelled
+PREM8535,CNT-CDP-7072-802,384-12-1031,5218,Semi-Annually,Mobile Payment Apps,Overdue
+PREM5342,CNT-CDP-1652-944,364-56-0809,4807,Querterly,Credit or Debit Card,Pending
+PREM0686,CNT-CDP-2283-636,469-18-8371,2083,Annually,Credit or Debit Card,Expired
+PREM2245,CNT-CDP-4697-713,821-33-0882,2015,Semi-Annually,In-Person Payments,Lapsed
+PREM7807,CNT-CDP-5381-536,785-80-4695,1633,Querterly,Credit or Debit Card,Pending
+PREM6310,CNT-CDP-1271-220,405-95-7014,5838,Annually,Check,Renewed
+PREM1599,CNT-CDP-5503-729,536-21-0812,5699,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM7769,CNT-CDP-5615-634,395-52-7205,142,Semi-Annually,Electronic Funds Transfer (EFT),Renewed
+PREM1489,CNT-CDP-3103-701,343-73-0877,9989,Annually,Credit or Debit Card,Suspended
+PREM5815,CNT-CDP-2242-539,110-86-9732,2314,Semi-Annually,Phone Payments,Suspended
+PREM4712,CNT-CDP-0059-008,845-85-8761,6043,Annually,In-Person Payments,Active
+PREM6655,CNT-CDP-6171-071,681-30-3780,192,Semi-Annually,Electronic Funds Transfer (EFT),Lapsed
+PREM7847,CNT-CDP-2425-737,176-29-9474,5144,Annually,Check,Cancelled
+PREM7028,CNT-CDP-9564-311,707-14-3743,1603,Annually,Mobile Payment Apps,Suspended
+PREM1878,CNT-CDP-6058-304,683-18-9050,3024,Querterly,Direct Debit/Automatic Withdrawal,Pending
+PREM5925,CNT-CDP-1926-522,532-93-7617,1262,Querterly,Electronic Funds Transfer (EFT),Renewed
+PREM6873,CNT-CDP-4219-166,440-33-5693,7254,Monthly,Mobile Payment Apps,Pending
+PREM1552,CNT-CDP-4697-553,748-18-5529,5540,Querterly,Electronic Funds Transfer (EFT),Overdue
+PREM5291,CNT-CDP-3703-412,172-85-1067,1803,Semi-Annually,Mobile Payment Apps,Lapsed
+PREM8911,CNT-CDP-6055-372,423-64-3992,3390,Annually,Check,Suspended
+PREM0294,CNT-CDP-4427-989,819-29-9354,3970,Querterly,Credit or Debit Card,Pending
+PREM1413,CNT-CDP-8082-849,331-86-5929,8752,Annually,Electronic Funds Transfer (EFT),Suspended
+PREM3833,CNT-CDP-4982-687,674-10-7843,8711,Semi-Annually,Check,Expired
+PREM5588,CNT-CDP-0272-472,691-17-3387,3138,Monthly,Online Payment Portals,Active
+PREM4107,CNT-CDP-3189-415,398-74-8575,7347,Semi-Annually,Electronic Funds Transfer (EFT),Overdue
+PREM7374,CNT-CDP-3311-950,335-18-2624,6488,Monthly,Credit or Debit Card,Overdue
+PREM1126,CNT-CDP-4435-896,384-51-6805,5413,Semi-Annually,Phone Payments,Cancelled
+PREM6061,CNT-CDP-9035-645,611-29-2776,6446,Querterly,Online Payment Portals,Suspended
+PREM5238,CNT-CDP-0376-223,240-36-3667,15,Semi-Annually,In-Person Payments,Lapsed
+PREM7086,CNT-CDP-4697-407,828-78-2030,7505,Annually,Phone Payments,Overdue
+PREM3211,CNT-CDP-2962-572,522-29-3424,6527,Semi-Annually,Online Payment Portals,Lapsed
+PREM7493,CNT-CDP-9461-087,410-82-3708,9880,Querterly,Online Payment Portals,Lapsed
+PREM5983,CNT-CDP-3943-107,157-96-5213,5543,Querterly,Check,Overdue
+PREM1513,CNT-CDP-8495-917,618-40-5613,4436,Semi-Annually,Check,Cancelled
+PREM8069,CNT-CDP-3967-969,527-99-2794,130,Monthly,Online Payment Portals,Renewed
+PREM5696,CNT-CDP-6984-981,728-14-0129,6554,Monthly,Check,Pending
+PREM2197,CNT-CDP-6430-594,161-27-2102,3652,Querterly,Electronic Funds Transfer (EFT),Expired
+PREM3601,CNT-CDP-6612-374,469-65-9333,6587,Querterly,Direct Debit/Automatic Withdrawal,Renewed
+PREM4319,CNT-CDP-4716-686,350-82-8206,8304,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM6991,CNT-CDP-9721-992,320-72-8082,5038,Monthly,Online Payment Portals,Lapsed
+PREM0865,CNT-CDP-3408-470,831-61-9528,8288,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM5811,CNT-CDP-7012-459,730-87-9665,2104,Semi-Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM1738,CNT-CDP-0152-682,399-02-7593,2690,Semi-Annually,In-Person Payments,Expired
+PREM8695,CNT-CDP-8322-326,386-35-2129,9593,Annually,Online Payment Portals,Renewed
+PREM3249,CNT-CDP-1668-340,747-56-5781,3651,Monthly,Mobile Payment Apps,Lapsed
+PREM9908,CNT-CDP-4596-518,380-53-0116,5945,Querterly,Online Payment Portals,Renewed
+PREM3126,CNT-CDP-5803-851,622-30-1101,2185,Monthly,Online Payment Portals,Cancelled
+PREM3783,CNT-CDP-4173-398,675-06-9696,9167,Monthly,Online Payment Portals,Overdue
+PREM0852,CNT-CDP-5664-951,417-63-0056,4721,Querterly,Direct Debit/Automatic Withdrawal,Cancelled
+PREM2637,CNT-CDP-6907-674,339-35-4231,3155,Querterly,In-Person Payments,Active
+PREM7156,CNT-CDP-4771-659,355-88-3336,1888,Semi-Annually,Check,Suspended
+PREM2521,CNT-CDP-2401-771,882-39-8683,3578,Querterly,Credit or Debit Card,Expired
+PREM1431,CNT-CDP-4427-989,819-29-9354,4748,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM1759,CNT-CDP-3311-950,335-18-2624,532,Annually,Phone Payments,Lapsed
+PREM7396,CNT-CDP-4982-687,674-10-7843,920,Querterly,Check,Pending
+PREM9726,CNT-CDP-0288-826,803-89-9048,3426,Monthly,Check,Expired
+PREM4817,CNT-CDP-9084-081,168-52-1435,7351,Semi-Annually,Online Payment Portals,Active
+PREM4467,CNT-CDP-5348-125,498-47-0662,3435,Querterly,Electronic Funds Transfer (EFT),Renewed
+PREM0106,CNT-CDP-9534-381,859-29-5605,6347,Annually,Check,Active
+PREM5478,CNT-CDP-1708-875,653-48-2778,3411,Monthly,Phone Payments,Pending
+PREM9978,CNT-CDP-0220-379,560-54-1044,628,Querterly,Check,Overdue
+PREM3950,CNT-CDP-1299-479,576-22-8234,9858,Annually,Mobile Payment Apps,Cancelled
+PREM6484,CNT-CDP-8017-864,863-73-9525,6252,Annually,Check,Suspended
+PREM9116,CNT-CDP-0227-977,309-64-6753,5216,Semi-Annually,Phone Payments,Overdue
+PREM5175,CNT-CDP-1211-129,527-94-7787,8239,Monthly,Electronic Funds Transfer (EFT),Suspended
+PREM9660,CNT-CDP-2140-742,787-25-1617,7405,Querterly,In-Person Payments,Overdue
+PREM1662,CNT-CDP-8743-030,112-96-8059,2779,Querterly,Direct Debit/Automatic Withdrawal,Active
+PREM8789,CNT-CDP-9907-355,516-04-6814,4085,Annually,Mobile Payment Apps,Overdue
+PREM7680,CNT-CDP-3374-099,438-17-9370,1357,Querterly,In-Person Payments,Cancelled
+PREM9444,CNT-CDP-1824-562,191-15-6591,9141,Annually,Direct Debit/Automatic Withdrawal,Cancelled
+PREM7290,CNT-CDP-6383-302,334-55-7345,2515,Semi-Annually,Online Payment Portals,Cancelled
+PREM1166,CNT-CDP-9415-635,761-99-8936,7858,Semi-Annually,Electronic Funds Transfer (EFT),Suspended
+PREM7944,CNT-CDP-6447-362,517-96-6739,6829,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM8023,CNT-CDP-6703-939,622-11-1615,9753,Annually,In-Person Payments,Lapsed
+PREM7198,CNT-CDP-0155-591,691-17-3387,2680,Querterly,Mobile Payment Apps,Renewed
+PREM5968,CNT-CDP-2327-965,556-44-4543,5557,Monthly,Direct Debit/Automatic Withdrawal,Renewed
+PREM2864,CNT-CDP-0987-596,463-31-3614,593,Semi-Annually,In-Person Payments,Cancelled
+PREM1359,CNT-CDP-1908-264,111-33-2433,1695,Querterly,Direct Debit/Automatic Withdrawal,Suspended
+PREM0760,CNT-CDP-0377-990,683-18-2016,9021,Annually,Credit or Debit Card,Lapsed
+PREM3395,CNT-CDP-4581-349,541-57-2145,6582,Monthly,Electronic Funds Transfer (EFT),Active
+PREM0209,CNT-CDP-5655-546,234-43-4033,2486,Semi-Annually,Direct Debit/Automatic Withdrawal,Expired
+PREM6063,CNT-CDP-7848-670,122-55-4301,2282,Semi-Annually,Mobile Payment Apps,Cancelled
+PREM7719,CNT-CDP-0138-654,572-52-6215,1815,Annually,In-Person Payments,Suspended
+PREM9315,CNT-CDP-6399-413,425-60-9329,3852,Querterly,Check,Cancelled
+PREM1892,CNT-CDP-7741-528,601-93-8041,4243,Annually,Online Payment Portals,Suspended
+PREM5171,CNT-CDP-7422-970,176-91-5939,4394,Annually,Online Payment Portals,Pending
+PREM2803,CNT-CDP-4822-371,784-73-3876,7013,Querterly,Phone Payments,Suspended
+PREM4362,CNT-CDP-2244-709,882-29-5174,3806,Annually,Check,Pending
+PREM3985,CNT-CDP-4981-274,832-63-4875,807,Monthly,Check,Pending
+PREM8903,CNT-CDP-8865-006,709-74-7875,5839,Querterly,In-Person Payments,Lapsed
+PREM0759,CNT-CDP-9534-381,859-29-5605,6745,Annually,Mobile Payment Apps,Cancelled
+PREM9255,CNT-CDP-4112-553,839-73-6465,4773,Annually,Mobile Payment Apps,Lapsed
+PREM3386,CNT-CDP-1752-610,205-22-8990,1107,Querterly,Check,Overdue
+PREM0059,CNT-CDP-7212-177,348-43-7882,6578,Annually,Credit or Debit Card,Renewed
+PREM9131,CNT-CDP-1981-727,585-97-5767,6557,Querterly,Electronic Funds Transfer (EFT),Suspended
+PREM2770,CNT-CDP-1794-354,417-63-0056,1848,Semi-Annually,Online Payment Portals,Lapsed
+PREM3557,CNT-CDP-5075-745,671-48-6104,1027,Semi-Annually,Phone Payments,Lapsed
+PREM0743,CNT-CDP-8822-651,332-50-8142,7853,Annually,Online Payment Portals,Pending
+PREM0791,CNT-CDP-7486-471,320-72-8082,1334,Semi-Annually,Direct Debit/Automatic Withdrawal,Suspended
+PREM2568,CNT-CDP-1668-340,747-56-5781,4507,Semi-Annually,Online Payment Portals,Lapsed
+PREM8465,CNT-CDP-6949-058,707-14-3743,9272,Monthly,Credit or Debit Card,Overdue
+PREM5194,CNT-CDP-9907-355,516-04-6814,1241,Annually,Mobile Payment Apps,Cancelled
+PREM2453,CNT-CDP-4996-479,320-72-8082,4445,Semi-Annually,Check,Expired
+PREM9454,CNT-CDP-7552-534,706-92-3972,3486,Semi-Annually,Check,Active
+PREM3455,CNT-CDP-1167-031,492-69-2793,3983,Semi-Annually,Mobile Payment Apps,Cancelled
+PREM9495,CNT-CDP-7938-639,307-44-4074,2142,Annually,Online Payment Portals,Renewed
+PREM5431,CNT-CDP-3750-460,436-44-7581,6982,Annually,Check,Suspended
+PREM0441,CNT-CDP-9562-404,309-18-0710,4947,Semi-Annually,Check,Expired
+PREM2370,CNT-CDP-4000-078,205-47-8030,2525,Semi-Annually,Direct Debit/Automatic Withdrawal,Expired
+PREM3470,CNT-CDP-4111-207,233-98-7822,2607,Querterly,Direct Debit/Automatic Withdrawal,Expired
+PREM5814,CNT-CDP-6567-876,202-51-5487,2112,Monthly,In-Person Payments,Pending
+PREM6514,CNT-CDP-6639-838,446-41-6870,7107,Semi-Annually,Credit or Debit Card,Active
+PREM3742,CNT-CDP-2794-924,527-94-7787,468,Semi-Annually,Electronic Funds Transfer (EFT),Active
+PREM3481,CNT-CDP-0705-782,379-37-7126,160,Semi-Annually,Mobile Payment Apps,Suspended
+PREM1129,CNT-CDP-5503-729,536-21-0812,4023,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM0514,CNT-CDP-6376-598,206-82-9014,9947,Monthly,Online Payment Portals,Expired
+PREM7726,CNT-CDP-7858-277,600-97-2729,6852,Annually,Mobile Payment Apps,Pending
+PREM1599,CNT-CDP-5391-438,688-16-5212,5015,Annually,Check,Lapsed
+PREM8082,CNT-CDP-1975-973,569-98-8973,6859,Annually,Online Payment Portals,Suspended
+PREM3649,CNT-CDP-4771-397,728-88-9032,8823,Semi-Annually,In-Person Payments,Overdue
+PREM0288,CNT-CDP-3887-648,297-67-6147,3015,Annually,Credit or Debit Card,Lapsed
+PREM0276,CNT-CDP-4580-607,532-85-3774,5792,Monthly,Electronic Funds Transfer (EFT),Active
+PREM9990,CNT-CDP-6814-078,154-64-8431,3042,Querterly,Direct Debit/Automatic Withdrawal,Expired
+PREM0986,CNT-CDP-5745-522,793-09-2729,4753,Querterly,Check,Pending
+PREM8533,CNT-CDP-8383-950,749-97-9210,294,Annually,In-Person Payments,Active
+PREM7729,CNT-CDP-7027-736,603-46-2641,3262,Querterly,Electronic Funds Transfer (EFT),Overdue
+PREM0609,CNT-CDP-7146-925,117-05-3734,5787,Querterly,Check,Suspended
+PREM1557,CNT-CDP-9229-908,862-15-0803,8504,Monthly,Direct Debit/Automatic Withdrawal,Lapsed
+PREM8189,CNT-CDP-9033-520,630-51-1682,9490,Semi-Annually,Direct Debit/Automatic Withdrawal,Renewed
+PREM1830,CNT-CDP-0489-321,423-50-6409,75,Semi-Annually,Electronic Funds Transfer (EFT),Cancelled
+PREM2747,CNT-CDP-8648-617,281-81-1398,5990,Semi-Annually,Credit or Debit Card,Cancelled
+PREM0428,CNT-CDP-6371-507,379-37-7126,315,Querterly,Check,Suspended
+PREM5858,CNT-CDP-0505-907,479-33-8552,3255,Semi-Annually,Phone Payments,Renewed
+PREM1872,CNT-CDP-1754-791,436-44-7581,3495,Querterly,Credit or Debit Card,Pending
+PREM9094,CNT-CDP-9677-708,550-28-8283,2573,Monthly,Direct Debit/Automatic Withdrawal,Active
+PREM8217,CNT-CDP-6938-214,678-24-3779,7155,Monthly,Mobile Payment Apps,Active
+PREM5611,CNT-CDP-1323-668,146-24-4332,3138,Semi-Annually,Phone Payments,Renewed
+PREM3372,CNT-CDP-3722-698,335-18-2624,8657,Monthly,Check,Suspended
+PREM2557,CNT-CDP-6844-322,121-50-0345,7097,Annually,Electronic Funds Transfer (EFT),Overdue
+PREM3259,CNT-CDP-9699-153,522-74-5310,4790,Semi-Annually,Credit or Debit Card,Overdue
+PREM8221,CNT-CDP-5301-473,435-10-4849,7013,Monthly,Mobile Payment Apps,Cancelled
+PREM4587,CNT-CDP-5921-425,532-71-6847,5063,Querterly,Phone Payments,Expired
+PREM9038,CNT-CDP-6396-007,571-01-2642,6514,Querterly,Electronic Funds Transfer (EFT),Pending
+PREM9579,CNT-CDP-1547-355,145-72-3021,3100,Semi-Annually,In-Person Payments,Cancelled
+PREM8826,CNT-CDP-2988-949,762-49-1943,994,Monthly,Mobile Payment Apps,Expired
+PREM8452,CNT-CDP-9534-381,859-29-5605,6331,Semi-Annually,In-Person Payments,Lapsed
+PREM1419,CNT-CDP-3791-760,587-46-8092,1783,Semi-Annually,Online Payment Portals,Renewed
+PREM4983,CNT-CDP-4854-921,176-86-3412,7690,Semi-Annually,Phone Payments,Expired
+PREM9416,CNT-CDP-8553-322,836-04-2999,3842,Semi-Annually,Check,Expired
+PREM0369,CNT-CDP-7652-991,176-91-5939,4671,Querterly,Electronic Funds Transfer (EFT),Overdue
+PREM4221,CNT-CDP-4874-503,102-21-1414,6165,Querterly,Credit or Debit Card,Lapsed
+PREM7881,CNT-CDP-4667-329,463-31-3614,3507,Semi-Annually,In-Person Payments,Cancelled
+PREM1429,CNT-CDP-0934-058,168-79-9741,9577,Annually,Online Payment Portals,Active
+PREM6189,CNT-CDP-5374-530,734-17-0352,6583,Semi-Annually,Phone Payments,Renewed
+PREM0306,CNT-CDP-2283-636,469-18-8371,6907,Semi-Annually,Online Payment Portals,Overdue
+PREM5093,CNT-CDP-9783-931,101-47-5339,1762,Annually,Phone Payments,Suspended
+PREM4289,CNT-CDP-7225-678,255-68-1656,9868,Semi-Annually,In-Person Payments,Active
+PREM1750,CNT-CDP-0034-578,192-60-6314,5056,Semi-Annually,In-Person Payments,Suspended
+PREM6497,CNT-CDP-1167-031,492-69-2793,3433,Annually,Phone Payments,Pending
+PREM7658,CNT-CDP-5005-153,497-94-2225,3011,Monthly,Phone Payments,Suspended
+PREM0099,CNT-CDP-5160-021,546-67-4067,5945,Monthly,Credit or Debit Card,Renewed
+PREM0424,CNT-CDP-3943-107,157-96-5213,6083,Semi-Annually,Electronic Funds Transfer (EFT),Overdue
+PREM5006,CNT-CDP-4972-406,638-53-8878,1373,Semi-Annually,Check,Expired
+PREM9369,CNT-CDP-2265-515,879-28-4768,3983,Semi-Annually,Phone Payments,Cancelled
