@@ -17,4 +17,4 @@ In this project, I handled the end-to-end process of designing and implementing 
 The document that explains this process can be found in **database-design.pdf** file. And the user-interface that is created at the end can be seen in the gif below.
 
 
-![User Interface GIF](user-interface.gif)
+![User Interface GIF](figures/user-interface.gif)
