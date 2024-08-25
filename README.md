@@ -12,7 +12,7 @@ In this project, I handled the end-to-end process of designing and implementing 
 
 5. **Database Optimization**: To improve performance and ensure efficient data retrieval, I implemented various optimization techniques. This included indexing frequently queried columns, partitioning large tables, and normalizing data to reduce redundancy. 
 
-6. **Development of User Interface with Flask and React**: To allow users to interact with the database seamlessly, I developed a web application using Flask for the backend and React for the frontend. Flask served as the RESTful API layer. It handles data requests and responses while React provided a user interface.
+6. **Development of User Interface with Flask and React**: To allow users to interact with the database seamlessly, I developed a web application using Flask for the backend and React for the frontend. Flask serves as the RESTful API layer. It handles data requests and responses while React provides a user interface.
 
 The document that explains this process can be found in **database-design.pdf** file. And the user-interface that is created at the end can be seen in the gif below.
 
