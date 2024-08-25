@@ -14,5 +14,7 @@ In this project, I handled the end-to-end process of designing and implementing 
 
 6. **Development of User Interface with Flask and React**: To allow users to interact with the database seamlessly, I developed a web application using Flask for the backend and React for the frontend. Flask served as the RESTful API layer. It handles data requests and responses while React provided a user interface.
 
+The document that explains this process can be found in **database-design.pdf** file. And the user-interface that is created at the end can be seen in the gif below.
+
 
 ![User Interface GIF](user-interface.gif)
