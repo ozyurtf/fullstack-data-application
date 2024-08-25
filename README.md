@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is my final project in CSCI-GA.2433 Database Systems at NYU. In this project, I handled the end-to-end process of designing and implementing a data-driven application, starting from conceptual design to user interaction. The main steps of the project are like these:
+This is my final project in CSCI-GA 2433 Database Systems at NYU. In this project, I handled the end-to-end process of designing and implementing a data-driven application, starting from conceptual design to user interaction. The main steps of the project are like these:
 
 1. **Entity Relationship Diagram (ERD) Creation**: In the first step, I created an Entity Relationship Diagram to visually map out the data structure and relationships between different entities. This step was important for understanding the data requirements and how different entities relate to each other.
 
