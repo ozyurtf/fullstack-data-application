@@ -1,6 +1,4 @@
-## Database Design
-
-**Project Overview:**
+## Project Overview
 
 In this project, I handled the end-to-end process of designing and implementing a data-driven application, starting from conceptual design to user interaction. The main steps of the project are like these:
 
